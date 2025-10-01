@@ -9,6 +9,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Layout />}>
           <Route index element={<Home />} />
+          {/* <Route path="what-we-do" element={<Home />} /> */}
         </Route>
       </Routes>
     </>

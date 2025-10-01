@@ -61,7 +61,7 @@ const Footer = () => {
                     </ul>
                 </div>
             </div>
-            <div className='bg-white px-[40px] py-[60px] flex items-center justify-center'>
+            <div className='bg-white px-[40px] py-3 flex items-center justify-center'>
                 <div>
                     <p className='text-[10px] text-gray-500'>&copy; 2025. PureGrowth Agribusiness Limited.</p>
                 </div>
