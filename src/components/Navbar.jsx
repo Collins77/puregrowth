@@ -13,7 +13,7 @@ const Navbar = () => {
       name: 'OUR ASSORTMENT', 
       path: '/assortment', 
       dropdown: [
-        { name: 'Food Ingredients', path: '/assortment/food-ingredients' },
+        { name: 'Food Ingredients', path: '/assortment/ingredients' },
         { name: 'Private Label', path: '/assortment/private-label' }
       ] 
     },
@@ -23,7 +23,7 @@ const Navbar = () => {
       path: '/quality', 
       dropdown: [
         { name: 'Certifications', path: '/quality/certifications' },
-        { name: 'Services', path: '/quality/process' }
+        { name: 'Services', path: '/quality/services' }
       ] 
     },
     { name: 'SHOP', path: '/shop' },
