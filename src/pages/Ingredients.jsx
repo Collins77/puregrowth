@@ -1,72 +1,36 @@
-import React from 'react'
-import chilli from '../assets/chili.jpg'
-import cere from '../assets/cerealss.jpg'
-import oil from '../assets/sunflower oil.jpg'
-import black from '../assets/balck pepper.jpg'
-import beans from '../assets/BEANS 1.jpg'
-import carda from '../assets/cardamom.jpg'
-import cashew from '../assets/cashew 1.jpg'
-import coffee from '../assets/coffee - Copy.jpg'
-import clove from '../assets/clove.jpg'
-import sesame from '../assets/sesame seed 1.png'
-import spice from '../assets/spices.jpg'
+import React from 'react';
+import { Link } from 'react-router-dom';
+import productsData from '../db/products.json';
 
 const Ingredients = () => {
   return (
     <div className='px-[40px] py-[60px] bg-white'>
-        <h1 className='font-bold text-7xl text-[#039be6] uppercase mb-[40px]'>Food ingredients</h1>
-        <div className='grid grid-cols-4 gap-6'>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={spice} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={chilli} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={cere} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={oil} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={black} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={beans} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={carda} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={cashew} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={coffee} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={clove} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={sesame} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-            <a href='/' className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'>
-                <img src={spice} alt="img" className='h-[200px] w-[200px] rounded-full border border-[#039be6]' />
-                <p className='uppercase '>Spices</p>
-            </a>
-        </div>
+      <h1 className='font-bold text-7xl text-[#039be6] uppercase mb-[40px]'>Food Ingredients</h1>
+      <div className='grid grid-cols-4 gap-6'>
+        {productsData.map((category) => (
+          <Link
+            key={category.slug}
+            to={`/${category.slug}`} // Link to shop filtered by category
+            className='w-full flex flex-col gap-2 items-center hover:text-[#039be6]'
+          >
+            <div className='h-[200px] w-[200px] rounded-full border border-[#039be6] flex items-center justify-center bg-[#f5f5f5]'>
+              {/* Optionally, you can use the first product image as category image */}
+              {category.subProducts[0]?.images?.[0] ? (
+                <img
+                  src={category.subProducts[0].images[0]}
+                  alt={category.category}
+                  className='h-full w-full object-cover rounded-full'
+                />
+              ) : (
+                <span className='text-gray-500 uppercase font-semibold'>{category.category[0]}</span>
+              )}
+            </div>
+            <p className='uppercase text-center font-semibold'>{category.category}</p>
+          </Link>
+        ))}
+      </div>
     </div>
-  )
-}
+  );
+};
 
-export default Ingredients
+export default Ingredients;

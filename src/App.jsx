@@ -11,6 +11,7 @@ import Shop from "./pages/Shop"
 import SingleProduct from "./pages/SingleProduct"
 import Contact from "./pages/Contact"
 import WhatsAppButton from "./components/WhatsAppButton"
+import CategoryPage from "./pages/CategoryPage"
 
 function App() {
 
@@ -29,6 +30,7 @@ function App() {
           <Route path="shop" element={<Shop />} />
           <Route path="contact" element={<Contact />} />
           <Route path="/:categorySlug/:productSlug" element={<SingleProduct />} />
+          <Route path="/:categorySlug" element={<CategoryPage />} />
         </Route>
       </Routes>
       <WhatsAppButton />

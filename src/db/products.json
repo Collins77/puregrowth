@@ -6,12 +6,12 @@
             {
                 "name": "Sunflower Oil",
                 "slug": "sunflower",
-                "image": "/images/Sunflower 3.jpg",
+                "image": "/images/sunflower oil.png",
                 "images": {
-                    "main": "/images/Sunflower 3.jpg",
+                    "main": "/images/sunflower oil.png",
                     "gallery": [
-                        "/images/Sunflower 3.jpg",
-                        "/images/Sunflower 2.jpg"
+                        "/images/sunflower oil.jpg",
+                        "/images/sunflower oil.png"
                     ]
                 },
                 "description": "Our refined organic sunflower oil is produced from the highest quality sunflower seeds cultivated under sustainable and organic farming practices. The oil undergoes a careful hot-press extraction and multiple filtration stages, including bleaching and vacuum deodorization, to yield a clear, odorless, light-golden oil with exceptional purity. With a high smoke point and neutral taste, it is one of the most versatile edible oils suitable for frying, sautéing, baking, and salad dressings. Rich in Vitamin E, omega-6 fatty acids, and natural antioxidants, it supports heart health and promotes radiant skin. Beyond culinary use, it is highly valued in the cosmetic and pharmaceutical industries for its moisturizing and anti-inflammatory properties.",
@@ -199,12 +199,12 @@
             {
                 "name": "Sesame Oil",
                 "slug": "sesame",
-                "image": "/images/Sesame 1.jpg",
+                "image": "/images/sesame seed 1.png",
                 "images": {
-                    "main": "/images/Sesame 1.jpg",
+                    "main": "/images/sesame seed 1.png",
                     "gallery": [
-                        "/images/Sesame 1.jpg",
-                        "/images/Sesame 2.jpg"
+                        "/images/sesame seed 1.png",
+                        "/images/sesame seed 2.png"
                     ]
                 },
                 "description": "Our organic cold-pressed sesame oil is produced from high-quality sesame seeds (Sesamum indicum) cultivated in Kenya. Extracted mechanically without the use of heat or chemicals, the oil retains its distinctive nutty aroma and rich golden color. It is a staple in Asian and Middle Eastern cuisines, used in stir-fries, marinades, sauces, and salad dressings. Sesame oil is also treasured in cosmetics, aromatherapy, and Ayurvedic medicine for its skin-conditioning, antioxidant, and anti-inflammatory benefits.",

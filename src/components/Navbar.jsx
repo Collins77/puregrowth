@@ -1,11 +1,11 @@
-import React, { useState } from 'react'
-import { NavLink } from 'react-router-dom'
-import logo from '../assets/logo.png'
-import { Globe, Menu, X } from 'lucide-react'
+import React, { useState } from 'react';
+import { NavLink } from 'react-router-dom';
+import logo from '../assets/logo.png';
+import { Globe, Menu, X } from 'lucide-react';
 
 const Navbar = () => {
-  const [mobileOpen, setMobileOpen] = useState(false)
-  const [langOpen, setLangOpen] = useState(false)
+  const [mobileOpen, setMobileOpen] = useState(false);
+  const [langOpen, setLangOpen] = useState(false);
 
   const navItems = [
     { name: 'HOME', path: '/' },
@@ -28,12 +28,12 @@ const Navbar = () => {
     },
     { name: 'SHOP', path: '/shop' },
     { name: 'CONTACT', path: '/contact' }
-  ]
+  ];
 
   const linkClass = ({ isActive }) =>
     `relative font-bold text-sm after:content-[''] after:absolute after:left-0 after:bottom-[-2px] after:w-0 after:h-[2px] after:bg-[#039be6] after:transition-all after:duration-300 ${
       isActive ? 'text-[#039be6] after:w-full' : 'text-gray-800 hover:text-[#039be6] hover:after:w-full'
-    }`
+    }`;
 
   return (
     <div className="h-[70px] bg-white px-6 md:px-[40px] flex items-center justify-between border-b border-gray-200 relative">
@@ -52,22 +52,36 @@ const Navbar = () => {
       <nav className="hidden md:flex items-center gap-6">
         <ul className="flex items-center gap-6">
           {navItems.map((item) => (
-            <li key={item.name} className={`relative ${item.dropdown ? 'group' : ''}`}>
+            <li key={item.name} className="relative group">
               <NavLink to={item.path} className={linkClass}>
                 {item.name}
               </NavLink>
+
               {item.dropdown && (
-                <div className="absolute left-0 top-full mt-2 hidden group-hover:block bg-white shadow-lg rounded-md py-2 w-48 z-20">
-                  {item.dropdown.map((sub) => (
-                    <NavLink 
-                      key={sub.name} 
-                      to={sub.path} 
-                      className={({ isActive }) => `block px-4 py-2 text-sm ${isActive ? 'text-[#039be6]' : 'text-gray-700'} hover:bg-blue-200`}
-                    >
-                      {sub.name}
-                    </NavLink>
-                  ))}
-                </div>
+                <>
+                  {/* Invisible hover bridge */}
+                  <div className="absolute top-full left-0 h-2 w-full bg-transparent"></div>
+
+                  <div 
+                    className="absolute left-0 top-full mt-1 opacity-0 invisible 
+                    group-hover:opacity-100 group-hover:visible hover:opacity-100 hover:visible 
+                    transition-all duration-200 bg-white shadow-lg rounded-md py-2 w-48 z-20"
+                  >
+                    {item.dropdown.map((sub) => (
+                      <NavLink 
+                        key={sub.name} 
+                        to={sub.path} 
+                        className={({ isActive }) => 
+                          `block px-4 py-2 text-sm ${
+                            isActive ? 'text-[#039be6]' : 'text-gray-700'
+                          } hover:bg-blue-200`
+                        }
+                      >
+                        {sub.name}
+                      </NavLink>
+                    ))}
+                  </div>
+                </>
               )}
             </li>
           ))}
@@ -135,7 +149,7 @@ const Navbar = () => {
         </div>
       )}
     </div>
-  )
-}
+  );
+};
 
-export default Navbar
+export default Navbar;
