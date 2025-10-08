@@ -1,0 +1,646 @@
+[
+    {
+        "category": "Oils & Fats",
+        "slug": "oils-fats",
+        "subProducts": [
+            {
+                "name": "Sunflower Oil",
+                "slug": "sunflower",
+                "image": "/images/Sunflower 3.jpg",
+                "images": {
+                    "main": "/images/Sunflower 3.jpg",
+                    "gallery": [
+                        "/images/Sunflower 3.jpg",
+                        "/images/Sunflower 2.jpg"
+                    ]
+                },
+                "description": "Our refined organic sunflower oil is produced from the highest quality sunflower seeds cultivated under sustainable and organic farming practices. The oil undergoes a careful hot-press extraction and multiple filtration stages, including bleaching and vacuum deodorization, to yield a clear, odorless, light-golden oil with exceptional purity. With a high smoke point and neutral taste, it is one of the most versatile edible oils suitable for frying, sautéing, baking, and salad dressings. Rich in Vitamin E, omega-6 fatty acids, and natural antioxidants, it supports heart health and promotes radiant skin. Beyond culinary use, it is highly valued in the cosmetic and pharmaceutical industries for its moisturizing and anti-inflammatory properties.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "Ingredients (organic*)": "Crude sunflower oil*",
+                    "Process": "Extraction of oil from the seeds, Filtering the oil on a cotton-and paper-filter, Bleaching the oil (method:filtering the oil by a filter of nonactive clay and norit), Deodorization in a vacuum kettle at a temperature of +/- 250°C. All the bad odours"
+                },
+                "desc": {
+                    "Country of last processing": "KENYA ",
+                    "Agricultural origin": "KENYA",
+                    "Latin name": "Helianthus annuus"
+                },
+                "applications": [
+                    "Cooking oil",
+                    "Baking",
+                    "Cosmetics",
+                    "Pharmaceuticals",
+                    "Salad dressings"
+                ],
+                "supply": {
+                    "capacity": "500 MT/month",
+                    "packaging": [
+                        "1L bottles",
+                        "5L jerrycans",
+                        "25L drums",
+                        "Bulk flexitank"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "3760 kJ",
+                    "Energy (kcal)": "900 kcal",
+                    "of which saturated": "100 g",
+                    "Fat": "9 g",
+                    "Carbohydrates": "0 g",
+                    "of which sugars": "0 g",
+                    "Protein": "0 g",
+                    "Dietary fibre ": "0 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "High smoke point suitable for deep frying and high-heat applications",
+                    "Naturally rich in Vitamin E and antioxidants that promote skin health",
+                    "Extensive use across food, cosmetic, and pharmaceutical industries",
+                    "Available in both retail and industrial bulk packaging options"
+                ],
+                "tags": [
+                    "Cooking oil",
+                    "Healthy fats",
+                    "Cosmetic grade"
+                ]
+            },
+            {
+                "name": "Palm Oil",
+                "slug": "palm",
+                "image": "/images/Palm oil 1.jpg",
+                "images": {
+                    "main": "/images/Palm oil 1.jpg",
+                    "gallery": [
+                        "/images/Palm oil 1.jpg",
+                        "/images/Palm Oil 2.jpg"
+                    ]
+                },
+                "description": "Our organic palm oil is carefully sourced and refined to meet international standards of quality, purity, and sustainability. Extracted from the fruit of the oil palm tree (Elaeis guineensis), this oil is semi-solid at room temperature, with excellent oxidative stability and a neutral taste when refined. It is a preferred choice for frying, cooking, and industrial food processing due to its resistance to rancidity and high smoke point. In addition to its extensive use in food products such as margarine, confectionery, and bakery fats, palm oil also finds significant application in cosmetics, soaps, and as a raw material in biofuel production. Our processing includes bleaching at 90–100°C and vacuum deodorization at 190–270°C to ensure optimal purity and color consistency.",
+                "origin": [
+                    "Kenya",
+                    "Sierra Leone",
+                    "Ecuador",
+                    "Ivory Coast"
+                ],
+                "metrics": {
+                    "Ingredients (organic*)": "Palm oil*",
+                    "Process": "Crude oil is stored, then bleached at a vacuum of 90-100 °C with the help of Activated fullers earth to remove pigments and trace metals, then filtrated through a 5 micron filter, deodorised at a vacuum of 190-270 °C with added steam, to remove odour ",
+                    "Harvest month(s)": "39635"
+                },
+                "desc": {
+                    "Description": "Palm oil org.",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Sierra Leone, Ecuador, Ivory Coast",
+                    "Latin name": "Elaeis guineensis"
+                },
+                "applications": [
+                    "Cooking",
+                    "Margarine",
+                    "Soaps",
+                    "Cosmetics",
+                    "Biofuel"
+                ],
+                "supply": {
+                    "capacity": "800 MT/month",
+                    "packaging": [
+                        "Jerrycans",
+                        "Bulk tankers",
+                        "25L drums"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "3700 kJ",
+                    "Energy (kcal)": "900 kcal",
+                    "of which saturated": "47 g",
+                    "Fat": "0 g",
+                    "Carbohydrates": "0 g",
+                    "of which sugars": "0 g",
+                    "Protein": "0 g",
+                    "Dietary fibre ": "0 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "Highly stable under high cooking temperatures",
+                    "Sustainably sourced and certified organic",
+                    "Serves as a multipurpose raw material for food, cosmetic, and energy sectors",
+                    "Long shelf life and excellent resistance to oxidation"
+                ],
+                "tags": [
+                    "Palm oil",
+                    "Industrial oil",
+                    "Biofuel feedstock"
+                ]
+            },
+            {
+                "name": "Olive Oil",
+                "slug": "olive",
+                "image": "/images/Olive oil 1.jpg",
+                "images": {
+                    "main": "/images/Olive oil 1.jpg",
+                    "gallery": [
+                        "/images/Olive oil 1.jpg",
+                        "/images/Olive oil 2.jpg"
+                    ]
+                },
+                "description": "Our cold-pressed extra virgin olive oil is crafted from handpicked organic olives sourced from Italy’s Mediterranean groves. Each batch is pressed within hours of harvest to preserve its vibrant green-golden hue, fresh grassy aroma, and naturally fruity taste with subtle peppery notes. Rich in monounsaturated fats, polyphenols, and antioxidants, this oil is ideal for dressings, marinades, drizzling, and low-heat cooking. It supports cardiovascular health and promotes anti-inflammatory benefits. The traditional mechanical cold-pressing and natural filtration methods ensure premium quality and authenticity.",
+                "origin": [
+                    "Italy"
+                ],
+                "metrics": {
+                    "Ingredients (organic*)": "Olives*",
+                    "Country of last processing": "The organic olives are hand picked and placed in cases. After this they are processed in an olive mill. First the olives are winnowed(removal of dust, branches, leaves and heavy objects) then they are washed with cold water(removal of sand and extran"
+                },
+                "desc": {
+                    "Description": "Olive oil vierge org. 5L",
+                    "Country of last processing": "Italy (IT)",
+                    "Agricultural origin": "Italy (IT)",
+                    "Latin name": "Olea europaea"
+                },
+                "applications": [
+                    "Salad dressings",
+                    "Marinades",
+                    "Cold dishes",
+                    "Cosmetics",
+                    "Gourmet cooking"
+                ],
+                "supply": {
+                    "capacity": "200 MT/month",
+                    "packaging": [
+                        "250ml glass bottles",
+                        "1L bottles",
+                        "5L tins"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "3700 kJ",
+                    "Energy (kcal)": "900 kcal",
+                    "of which saturated": "16.4 g",
+                    "Fat": "100 g",
+                    "Carbohydrates": "0 g",
+                    "of which sugars": "0 g",
+                    "Protein": "0 g",
+                    "Dietary fibre ": "0 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "First cold-pressed for superior aroma and flavor retention",
+                    "High in heart-healthy monounsaturated fats",
+                    "Contains natural antioxidants and polyphenols",
+                    "Ideal for gourmet and health-conscious consumers"
+                ],
+                "tags": [
+                    "Olive oil",
+                    "Extra virgin",
+                    "Organic"
+                ]
+            },
+            {
+                "name": "Sesame Oil",
+                "slug": "sesame",
+                "image": "/images/Sesame 1.jpg",
+                "images": {
+                    "main": "/images/Sesame 1.jpg",
+                    "gallery": [
+                        "/images/Sesame 1.jpg",
+                        "/images/Sesame 2.jpg"
+                    ]
+                },
+                "description": "Our organic cold-pressed sesame oil is produced from high-quality sesame seeds (Sesamum indicum) cultivated in Kenya. Extracted mechanically without the use of heat or chemicals, the oil retains its distinctive nutty aroma and rich golden color. It is a staple in Asian and Middle Eastern cuisines, used in stir-fries, marinades, sauces, and salad dressings. Sesame oil is also treasured in cosmetics, aromatherapy, and Ayurvedic medicine for its skin-conditioning, antioxidant, and anti-inflammatory benefits.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "Ingredients (organic*)": "Sesame seeds*",
+                    "Process": "Organic sesame oil is extracted from sesame seeds (Sesamum indicum). The oil is obtained by mechanical pressing without the application of heat (cold pressed)."
+                },
+                "desc": {
+                    "Description": "Sesame oil coldpressed",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya",
+                    "Latin name": "Sesamum Indicum"
+                },
+                "applications": [
+                    "Cooking",
+                    "Salad dressings",
+                    "Cosmetics",
+                    "Massage oils",
+                    "Pharmaceuticals"
+                ],
+                "supply": {
+                    "capacity": "300 MT/month",
+                    "packaging": [
+                        "500ml bottles",
+                        "5L tins",
+                        "25L drums",
+                        "Bulk containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "3760 kJ",
+                    "Energy (kcal)": "900 kcal",
+                    "of which saturated": "18 g",
+                    "Fat": "100 g",
+                    "Carbohydrates": "0 g",
+                    "of which sugars": "0 g",
+                    "Protein": "0 g",
+                    "Dietary fibre ": "0 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "Cold-pressed and additive-free",
+                    "Rich in vitamin E and natural antioxidants",
+                    "Multi-purpose for culinary and therapeutic use",
+                    "Certified organic and sustainably produced"
+                ],
+                "tags": [
+                    "Sesame oil",
+                    "Cold-pressed",
+                    "Organic"
+                ]
+            },
+            {
+                "name": "Coconut Oil",
+                "slug": "coconut",
+                "image": "/images/Coconut 1.jpg",
+                "images": {
+                    "main": "/images/Coconut 1.jpg",
+                    "gallery": [
+                        "/images/Coconut 1.jpg",
+                        "/images/Coconut 2.jpg"
+                    ]
+                },
+                "description": "Our virgin coconut oil is produced from fresh, organically grown coconuts through a gentle cold-press process that maintains its natural coconut aroma, taste, and nutrient profile. Extracted from the dried kernel (copra) at low temperatures of 40–45°C and filtered for purity, it is rich in medium-chain triglycerides (MCTs), lauric acid, and antioxidants. It promotes energy, supports immune health, and nourishes hair and skin. Ideal for low to medium-heat cooking, baking, skincare, and wellness applications.",
+                "origin": [
+                    "Kenya",
+                    "Sri Lanka"
+                ],
+                "metrics": {
+                    "Ingredients (organic*)": "Ingredients (organic*)",
+                    "Process": "The coconut oil is pressed out of the dried kernel flesh(kopra). At a temperature of 40-45 degrees Celsius, filtered, packed "
+                },
+                "desc": {
+                    "Description": "Coconut oil virgin org",
+                    "Country of last processing": "KENYA ",
+                    "Agricultural origin": "KENYA",
+                    "Latin name": "Helianthus annuus"
+                },
+                "applications": [
+                    "Cooking",
+                    "Baking",
+                    "Cosmetics",
+                    "Hair care",
+                    "Wellness supplements"
+                ],
+                "supply": {
+                    "capacity": "400 MT/month",
+                    "packaging": [
+                        "500ml glass jars",
+                        "5L tins",
+                        "25L drums",
+                        "Bulk containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "3700 kJ",
+                    "Energy (kcal)": "900 kcal",
+                    "of which saturated": "86.5 g",
+                    "Fat": "99.5 g",
+                    "Carbohydrates": "0 g",
+                    "of which sugars": "0 g",
+                    "Protein": "0 g",
+                    "Dietary fibre ": "0 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "100% virgin and cold-pressed for maximum purity",
+                    "Rich in MCTs and lauric acid for energy and immune support",
+                    "Ideal for both culinary and cosmetic applications",
+                    "Long shelf life and premium organic certification"
+                ],
+                "tags": [
+                    "Coconut oil",
+                    "Virgin",
+                    "Organic"
+                ]
+            },
+            {
+                "name": "Rapeseed oil",
+                "slug": "rapeseed",
+                "image": "/images/Coconut 1.jpg",
+                "images": {
+                    "main": "/images/Coconut 1.jpg",
+                    "gallery": [
+                        "/images/Coconut 1.jpg",
+                        "/images/Coconut 2.jpg"
+                    ]
+                },
+                "description": "Experience our deodorized rapeseed oil, carefully pressed from the finest rapeseeds. With its high smoke point, it is the secret ingredient for perfectly crisp fries, golden-brown baked goods, and flavourful dressings. This organic rapeseed oil is crafted for both gourmet chefs and industrial innovators alike. ",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "Ingredients (organic*)": "organische Raapzaadolie",
+                    "Process": "The rapeseed oil is pressed out of the rapeseed and deodorised. Transported to The Netherlands where it is deodorised and bleached to obtain a neutral oil."
+                },
+                "desc": {
+                    "Description": "Rapeseed oil DB org. 25L",
+                    "Country of last processing": "KENYA ",
+                    "Agricultural origin": "KENYA",
+                    "Latin name": "Helianthus annuus"
+                },
+                "applications": [
+                    "Cooking",
+                    "Baking",
+                    "Cosmetics",
+                    "Hair care",
+                    "Wellness supplements"
+                ],
+                "supply": {
+                    "capacity": "400 MT/month",
+                    "packaging": [
+                        "500ml glass jars",
+                        "5L tins",
+                        "25L drums",
+                        "Bulk containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "3760 kJ",
+                    "Energy (kcal)": "900 kcal",
+                    "of which saturated": "8 g",
+                    "Fat": "100 g",
+                    "Carbohydrates": "0 g",
+                    "of which sugars": "0 g",
+                    "Protein": "0 g",
+                    "Dietary fibre ": "0 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "100% virgin and cold-pressed for maximum purity",
+                    "Rich in MCTs and lauric acid for energy and immune support",
+                    "Ideal for both culinary and cosmetic applications",
+                    "Long shelf life and premium organic certification"
+                ],
+                "tags": [
+                    "Coconut oil",
+                    "Virgin",
+                    "Organic"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Coffee",
+        "slug": "coffee",
+        "subProducts": [
+            {
+                "name": "Kenya AA Coffee",
+                "slug": "kenya-aa",
+                "image": "/images/Kenya AA 1.jpg",
+                "images": {
+                    "main": "/images/Kenya AA 1.jpg",
+                    "gallery": [
+                        "/images/Kenya AA 1.jpg",
+                        "/images/Kenya AA 2.jpg"
+                    ]
+                },
+                "description": "Kenya AA Coffee represents the highest grade of Arabica coffee cultivated in Kenya, grown at altitudes of 1,400 to 2,000 meters above sea level. These high elevations and rich volcanic soils create the perfect environment for developing complex flavors. The beans are large, dense, and uniform, characterized by their vibrant acidity, full body, and intense aroma. The cup profile features bright citrus and berry notes, with hints of black currant and wine-like undertones — a hallmark of Kenya’s globally celebrated coffee. Each bean undergoes meticulous hand-picking, wet-processing, and sun-drying before export, ensuring unmatched consistency and quality.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "screenSize": "18 (7.2mm)",
+                    "moisture": "< 12%",
+                    "altitude": "1,400–2,000 meters",
+                    "shelfLife": "18 months"
+                },
+                "desc": {
+                    "Country of last processing": "KENYA ",
+                    "Agricultural origin": "KENYA",
+                    "Latin name": "Helianthus annuus"
+                },
+                "applications": [
+                    "Specialty coffee roasting",
+                    "Espresso blends",
+                    "Cold brew",
+                    "Premium retail coffee"
+                ],
+                "supply": {
+                    "capacity": "150 MT/month",
+                    "packaging": [
+                        "60kg jute bags",
+                        "Bulk export sacks"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "3760 kJ",
+                    "Energy (kcal)": "900 kcal",
+                    "of which saturated": "100 g",
+                    "Fat": "9 g",
+                    "Carbohydrates": "0 g",
+                    "of which sugars": "0 g",
+                    "Protein": "0 g",
+                    "Dietary fibre ": "0 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "World-renowned specialty-grade Arabica coffee",
+                    "Distinctively bright, fruity, and wine-like flavor profile",
+                    "Sourced from high-altitude Kenyan estates",
+                    "Graded and certified through the Nairobi Coffee Exchange"
+                ],
+                "tags": [
+                    "Arabica coffee",
+                    "Kenyan origin",
+                    "Specialty grade"
+                ]
+            },
+            {
+                "name": "Kenya AB Coffee",
+                "slug": "kenya-ab",
+                "image": "/images/Kenya AB 1.jpg",
+                "images": {
+                    "main": "/images/Kenya AB 1.jpg",
+                    "gallery": [
+                        "/images/Kenya AB 1.jpg",
+                        "/images/Kenya AB 2.jpg"
+                    ]
+                },
+                "description": "Kenya AB Coffee is a balanced, high-quality Arabica grade made up of slightly smaller beans than AA. It combines the A and B bean grades, offering a smooth and consistent flavor. Known for its balanced acidity, medium body, and sweet fruity notes, it is one of the most commercially available Kenyan coffee grades. It captures the essence of Kenyan coffee with berry-like sweetness, pleasant floral notes, and a crisp, clean finish. Approximately 40% of Kenya’s total coffee production falls under the AB category, making it the preferred choice for both single-origin and blend roasters worldwide.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "screenSize": "16–17 (6.8mm)",
+                    "moisture": "< 12%",
+                    "altitude": "1,400–1,800 meters",
+                    "shelfLife": "18 months"
+                },
+                "desc": {
+                    "Country of last processing": "KENYA ",
+                    "Agricultural origin": "KENYA",
+                    "Latin name": "Helianthus annuus"
+                },
+                "applications": [
+                    "Filter coffee",
+                    "Drip brewing",
+                    "Espresso blends",
+                    "Retail packaging"
+                ],
+                "supply": {
+                    "capacity": "200 MT/month",
+                    "packaging": [
+                        "60kg jute bags",
+                        "Bulk export sacks"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "3760 kJ",
+                    "Energy (kcal)": "900 kcal",
+                    "of which saturated": "100 g",
+                    "Fat": "9 g",
+                    "Carbohydrates": "0 g",
+                    "of which sugars": "0 g",
+                    "Protein": "0 g",
+                    "Dietary fibre ": "0 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "Medium-bodied with bright flavor and clean finish",
+                    "Balanced sweetness and acidity for diverse brewing styles",
+                    "Most widely available export grade in Kenya",
+                    "Ideal for premium blends and specialty coffee markets"
+                ],
+                "tags": [
+                    "Arabica coffee",
+                    "Kenya AB",
+                    "Premium coffee"
+                ]
+            },
+            {
+                "name": "Kenya PB (Peaberry) Coffee",
+                "slug": "kenya-pb",
+                "image": "/images/Kenya PB 1.jpg",
+                "images": {
+                    "main": "/images/Kenya PB 1.jpg",
+                    "gallery": [
+                        "/images/Kenya PB 1.jpg",
+                        "/images/Kenya PB 2.jpg"
+                    ]
+                },
+                "description": "Kenya Peaberry Coffee (PB) is a rare and naturally occurring coffee mutation where only one rounded bean grows inside the coffee cherry instead of two. This unique formation allows the bean to roast more evenly, producing an intense and concentrated flavor. With its rich body, complex aroma, and sweet berry and citrus notes, Kenya PB offers an exceptional cup experience. Representing only about 5% of Kenya’s total coffee production, this grade is highly sought after by specialty roasters around the world for its full-bodied character and vibrant acidity.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "screenSize": "17",
+                    "moisture": "< 12%",
+                    "altitude": "1,400–2,000 meters",
+                    "shelfLife": "18 months"
+                },
+                "desc": {
+                    "Country of last processing": "KENYA ",
+                    "Agricultural origin": "KENYA",
+                    "Latin name": "Helianthus annuus"
+                },
+                "applications": [
+                    "Specialty single-origin roasting",
+                    "Espresso",
+                    "Pour-over coffee"
+                ],
+                "supply": {
+                    "capacity": "50 MT/month",
+                    "packaging": [
+                        "60kg jute bags"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "3760 kJ",
+                    "Energy (kcal)": "900 kcal",
+                    "of which saturated": "100 g",
+                    "Fat": "9 g",
+                    "Carbohydrates": "0 g",
+                    "of which sugars": "0 g",
+                    "Protein": "0 g",
+                    "Dietary fibre ": "0 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "Unique single-bean (peaberry) structure enhances uniform roasting",
+                    "Complex flavor intensity and balanced sweetness",
+                    "Rare specialty coffee representing only 5% of Kenya’s crop",
+                    "Sourced from high-altitude Arabica farms"
+                ],
+                "tags": [
+                    "Peaberry",
+                    "Specialty coffee",
+                    "Kenya PB"
+                ]
+            },
+            {
+                "name": "Robusta Coffee",
+                "slug": "robusta",
+                "image": "/images/Robusta 1.jpg",
+                "images": {
+                    "main": "/images/Robusta 1.jpg",
+                    "gallery": [
+                        "/images/Robusta 1.jpg",
+                        "/images/Robusta 2.jpg"
+                    ]
+                },
+                "description": "Kenyan Robusta coffee is known for its strong flavor, deep body, and high caffeine content, making it a preferred component in espresso and instant coffee blends. Grown in lower-altitude regions under optimal tropical conditions, Robusta offers a bold taste profile with earthy, nutty, and cocoa notes. The beans have a natural resistance to pests and yield consistently high production volumes. Ideal for enhancing crema and texture in espresso blends, Robusta also forms the foundation for industrial and soluble coffee applications worldwide.",
+                "origin": [
+                    "Kenya",
+                    "Uganda"
+                ],
+                "metrics": {
+                    "screenSize": "18/15/12",
+                    "moisture": "< 12%",
+                    "caffeine": "2.0–2.7%",
+                    "shelfLife": "24 months"
+                },
+                "desc": {
+                    "Country of last processing": "KENYA ",
+                    "Agricultural origin": "KENYA",
+                    "Latin name": "Helianthus annuus"
+                },
+                "applications": [
+                    "Espresso blends",
+                    "Instant coffee",
+                    "Commercial coffee production"
+                ],
+                "supply": {
+                    "capacity": "300 MT/month",
+                    "packaging": [
+                        "60kg jute bags",
+                        "Bulk containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "3760 kJ",
+                    "Energy (kcal)": "900 kcal",
+                    "of which saturated": "100 g",
+                    "Fat": "9 g",
+                    "Carbohydrates": "0 g",
+                    "of which sugars": "0 g",
+                    "Protein": "0 g",
+                    "Dietary fibre ": "0 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "High caffeine content for strong flavor and crema",
+                    "Ideal for instant and espresso coffee formulations",
+                    "Durable and consistent supply from East Africa",
+                    "Preferred by commercial roasters for blending"
+                ],
+                "tags": [
+                    "Robusta coffee",
+                    "Espresso blend",
+                    "High caffeine"
+                ]
+            }
+        ]
+    }
+]

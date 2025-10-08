@@ -8,6 +8,7 @@ import WhatWeDo from "./pages/WhatWeDo"
 import Quality from "./pages/Quality"
 import Services from "./pages/Services"
 import Shop from "./pages/Shop"
+import SingleProduct from "./pages/SingleProduct"
 
 function App() {
 
@@ -24,6 +25,7 @@ function App() {
           <Route path="quality/certifications" element={<Quality />} />
           <Route path="quality/services" element={<Services />} />
           <Route path="shop" element={<Shop />} />
+          <Route path="/:categorySlug/:productSlug" element={<SingleProduct />} />
         </Route>
       </Routes>
     </>
