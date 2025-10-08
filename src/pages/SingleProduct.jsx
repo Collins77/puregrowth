@@ -119,7 +119,7 @@ const SingleProduct = () => {
                             </div>
 
                             <a
-                                href={`https://wa.me/254762631065?text=Hello, I am interested in ${encodeURIComponent(product.name)}.`}
+                                href={`https://wa.me/254754153083?text=Hello, I am interested in ${encodeURIComponent(product.name)}.`}
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="bg-green-500 px-4 py-2 rounded-xl cursor-pointer hover:bg-green-600 duration-300 transition-all text-white text-sm font-semibold flex items-center gap-2 sm:w-fit w-full text-center"

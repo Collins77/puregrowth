@@ -9,6 +9,8 @@ import Quality from "./pages/Quality"
 import Services from "./pages/Services"
 import Shop from "./pages/Shop"
 import SingleProduct from "./pages/SingleProduct"
+import Contact from "./pages/Contact"
+import WhatsAppButton from "./components/WhatsAppButton"
 
 function App() {
 
@@ -25,9 +27,11 @@ function App() {
           <Route path="quality/certifications" element={<Quality />} />
           <Route path="quality/services" element={<Services />} />
           <Route path="shop" element={<Shop />} />
+          <Route path="contact" element={<Contact />} />
           <Route path="/:categorySlug/:productSlug" element={<SingleProduct />} />
         </Route>
       </Routes>
+      <WhatsAppButton />
     </>
   )
 }
