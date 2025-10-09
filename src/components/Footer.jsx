@@ -23,10 +23,10 @@ const Footer = () => {
                     <h1 className='font-bold text-sm text-white'>OUR ASSORTMENT</h1>
                     <ul className='flex flex-col gap-2'>
                         <li className='text-white text-sm'>
-                            <a href="" className='hover:text-green-400 duration-300 transition-all'>Food Ingredients</a>
+                            <a href="assortment/ingredients" className='hover:text-green-400 duration-300 transition-all'>Food Ingredients</a>
                         </li>
                         <li className='text-white text-sm'>
-                            <a href="" className='hover:text-green-400 duration-300 transition-all'>Private Label</a>
+                            <a href="assortments/private-label" className='hover:text-green-400 duration-300 transition-all'>Private Label</a>
                         </li>
                     </ul>
                 </div>
@@ -34,10 +34,10 @@ const Footer = () => {
                     <h1 className='font-bold text-sm text-white'>QUICK LINKS</h1>
                     <ul className='flex flex-col gap-2'>
                         <li className='text-white text-sm'>
-                            <a href="" className='hover:text-green-400 duration-300 transition-all'>Shop</a>
+                            <a href="/shop" className='hover:text-green-400 duration-300 transition-all'>Shop</a>
                         </li>
                         <li className='text-white text-sm'>
-                            <a href="" className='hover:text-green-400 duration-300 transition-all'>Contact</a>
+                            <a href="/contact" className='hover:text-green-400 duration-300 transition-all'>Contact</a>
                         </li>
                     </ul>
                 </div>
@@ -48,7 +48,7 @@ const Footer = () => {
                             <a href="" className='hover:text-green-400 duration-300 transition-all'>Certifications</a>
                         </li>
                         <li className='text-white text-sm'>
-                            <a href="" className='hover:text-green-400 duration-300 transition-all'>Services</a>
+                            <a href="/quality/services" className='hover:text-green-400 duration-300 transition-all'>Services</a>
                         </li>
                     </ul>
                 </div>
@@ -56,7 +56,7 @@ const Footer = () => {
                     <h1 className='font-bold text-sm text-white'>PUREGROWTH</h1>
                     <ul className='flex flex-col gap-2'>
                         <li className='text-white text-sm'>
-                            <a href="" className='hover:text-green-400 duration-300 transition-all'>What We Do</a>
+                            <a href="/what-we-do" className='hover:text-green-400 duration-300 transition-all'>What We Do</a>
                         </li>
                     </ul>
                 </div>
