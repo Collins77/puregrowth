@@ -21,13 +21,13 @@ const Home = () => {
         <div>
             <div className='h-[80vh] bg-white w-full flex justify-between px-[40px] py-[60px] relative'>
                 <div className='w-[100%] flex flex-col gap-4 justify-center items-center h-full'>
-                    <h1 className='text-7xl font-bold bg-linear-to-r from-emerald-500 via-teal-500 to-cyan-500 bg-clip-text text-transparent w-[80%] text-center'>
+                    <h1 className='sm:text-7xl text-3xl font-bold bg-linear-to-r from-emerald-500 via-teal-500 to-cyan-500 bg-clip-text text-transparent w-[80%] text-center'>
                         Your Trusted Sourcing Partner in Kenya
                     </h1>
                     <p className='text-gray-500 text-sm text-center w-[60%]'>
                         PUREGROWTH AGRIBUSINESS LIMITED is an established Sourcing and Trading company based in East Africa. We are here to bring you the best local products at the best price.
                     </p>
-                    <div className='flex items-center gap-3'>
+                    <div className='flex sm:flex-row flex-col items-center gap-3'>
                         <button className='bg-[#039be6] px-2 py-1 rounded-md flex items-center gap-2 text-white hover:bg-transparent hover:text-black hover:border hover:border-[#039be6] duration-300 transition-all cursor-pointer font-semibold'>
                             LEARN MORE
                             <ChevronRight />
@@ -39,16 +39,16 @@ const Home = () => {
                     </div>
 
                 </div>
-                <div className='left-[100px] bottom-[50px] w-[200px] h-[200px] rounded-full border-2 border-[#039be6] absolute' style={{ backgroundImage: `url(${chilli})`, backgroundPosition: 'center', backgroundSize: 'cover' }}>
+                <div className='left-[100px] bottom-[50px] w-[200px] h-[200px] rounded-full border-2 border-[#039be6] sm:absolute hidden' style={{ backgroundImage: `url(${chilli})`, backgroundPosition: 'center', backgroundSize: 'cover' }}>
                 </div>
-                <div className='right-[400px] bottom-[30px] w-[100px] h-[100px] rounded-full border-2 border-[#039be6] absolute' style={{ backgroundImage: `url(${cere})`, backgroundPosition: 'center', backgroundSize: 'cover' }}>
+                <div className='right-[400px] bottom-[30px] w-[100px] h-[100px] rounded-full border-2 border-[#039be6] sm:absolute hidden' style={{ backgroundImage: `url(${cere})`, backgroundPosition: 'center', backgroundSize: 'cover' }}>
                 </div>
-                <div className='right-[20px] bottom-[80px] w-[250px] h-[250px] rounded-full border-2 border-[#039be6] absolute' style={{ backgroundImage: `url(${oil})`, backgroundPosition: 'center', backgroundSize: 'cover' }}>
+                <div className='right-[20px] bottom-[80px] w-[250px] h-[250px] rounded-full border-2 border-[#039be6] sm:absolute hidden' style={{ backgroundImage: `url(${oil})`, backgroundPosition: 'center', backgroundSize: 'cover' }}>
                 </div>
             </div>
-            <div className='flex gap-4 px-[40px] py-[60px] bg-[#039be6]/10'>
-                <div className='w-[40%]'>
-                    <div className='w-[400px] h-[400px] rounded-full border border-[#039be6] bg-white relative overflow-hidden'>
+            <div className='flex sm:flex-row flex-col gap-4 px-[40px] py-[60px] bg-[#039be6]/10'>
+                <div className='sm:w-[40%]'>
+                    <div className='sm:w-[400px] h-[400px] rounded-full border border-[#039be6] bg-white relative overflow-hidden'>
                         <img src={chilli} alt="img" className='w-[60px] h-[60px] absolute right-3 bottom-[40%] rounded-full border-2 border-[#039be6]/10 object-cover' />
                         <img src={oil} alt="img" className='w-[80px] h-[80px] absolute right-[50px] bottom-[20px] rounded-full border-2 border-[#039be6]/10 object-cover' />
                         <img src={cere} alt="img" className='w-[70px] h-[70px] absolute left-[10px] bottom-[20%] rounded-full border-2 border-[#039be6]/10 object-cover' />
@@ -62,19 +62,19 @@ const Home = () => {
                         <img src={spice} alt="img" className='w-[90px] h-[90px] absolute right-[150px] -bottom-[40px] rounded-full border-2 border-[#039be6]/10 object-cover' />
                     </div>
                 </div>
-                <div className='w-[60%] flex flex-col gap-4'>
-                    <h1 className='font-bold text-5xl text-[#039be6]'>WE EMBRACE THE PRINCIPLES OF ORGANIC AGRICULTURE</h1>
+                <div className='sm:w-[60%] flex flex-col gap-4'>
+                    <h1 className='font-bold sm:text-5xl text-2xl text-[#039be6]'>WE EMBRACE THE PRINCIPLES OF ORGANIC AGRICULTURE</h1>
                     <ul className='flex flex-col gap-4'>
-                        <li className='text-xl font-bold flex items-center gap-2'>
-                            <ArrowRight />
+                        <li className='sm:text-xl font-bold flex items-center gap-2'>
+                            <ArrowRight className='sm:block hidden' />
                             We choose food that is grown with respect for nature
                         </li>
-                        <li className='text-xl font-bold flex items-center gap-2'>
-                            <ArrowRight />
+                        <li className='sm:text-xl font-bold flex items-center gap-2'>
+                            <ArrowRight className='sm:block hidden' />
                             That is why 100% organic food is our standard
                         </li>
-                        <li className='text-xl font-bold flex gap-2'>
-                            <ArrowRight />
+                        <li className='sm:text-xl font-bold flex items-center gap-2'>
+                            <ArrowRight className='sm:block hidden'/>
                             All our ingredients and products are certified and of the highest quality
                         </li>
                     </ul>
@@ -83,17 +83,17 @@ const Home = () => {
             </div>
             <div className="bg-white px-[40px] py-[60px]">
                 <div>
-                    <h1 className="font-bold text-4xl text-[#039be6]">
+                    <h1 className="font-bold sm:text-4xl text-2xl text-[#039be6]">
                         100% <br />
                         ORGANIC FOOD
                     </h1>
                 </div>
-                <div className="flex items-center justify-center gap-8 mt-8">
+                <div className="flex sm:flex-row flex-col items-center justify-center gap-8 mt-8">
                     <a
-                        href="/food-ingredients"
+                        href="/assortment/ingredients"
                         onClick={(e) => {
                             e.preventDefault();
-                            navigate('/food-ingredients');
+                            navigate('/assortment/ingredients');
                         }}
                         className="w-[400px] h-[400px] relative group block"
                         style={{ clipPath: 'url(#blobClip)' }}
@@ -141,10 +141,10 @@ const Home = () => {
                         </div>
                     </a>
                     <a
-                        href="/private-label"
+                        href="/assortment/private-label"
                         onClick={(e) => {
                             e.preventDefault();
-                            navigate('/private-label');
+                            navigate('/assortment/private-label');
                         }}
                         className="w-[350px] h-[350px] rounded-full bg-green-300 flex items-center justify-center relative group"
                     >
@@ -161,31 +161,31 @@ const Home = () => {
                     </a>
                 </div>
             </div>
-            <div className='bg-[#039be6] px-[40px] py-[60px] flex '>
-                <div className='w-[40%]'>
-                    <h1 className='text-white font-bold text-4xl'>SPECIALIST IN ORGANIC FOOD PRODUCTS</h1>
+            <div className='bg-[#039be6] px-[40px] py-[60px] flex sm:flex-row flex-col gap-4'>
+                <div className='sm:w-[40%]'>
+                    <h1 className='text-white font-bold sm:text-4xl text-2xl'>SPECIALIST IN ORGANIC FOOD PRODUCTS</h1>
                 </div>
-                <div className='grid grid-cols-2 gap-8 w-[60%]'>
+                <div className='grid grid-cols-2 gap-8 sm:w-[60%]'>
                     <div className='flex flex-col gap-2 justify-center text-white w-[50%]'>
-                        <h1 className='font-bold text-5xl'>30+</h1>
+                        <h1 className='font-bold sm:text-5xl text-2xl'>30+</h1>
                         <p className='font-bold'>Years of Experience</p>
                     </div>
                     <div className='flex flex-col gap-2 justify-center text-white w-[50%]'>
-                        <h1 className='font-bold text-5xl'>100%</h1>
+                        <h1 className='font-bold sm:text-5xl text-2xl'>100%</h1>
                         <p className='font-bold'>Organic Ingredients</p>
                     </div>
                     <div className='flex flex-col gap-2 justify-center text-white w-[50%]'>
-                        <h1 className='font-bold text-5xl'>Global</h1>
+                        <h1 className='font-bold sm:text-5xl text-2xl'>Global</h1>
                         <p className='font-bold'>Network</p>
                     </div>
                     <div className='flex flex-col gap-2  justify-center text-white w-[50%]'>
-                        <h1 className='font-bold text-5xl'>High</h1>
+                        <h1 className='font-bold sm:text-5xl text-2xl'>High</h1>
                         <p className='font-bold'>Ethical principals</p>
                     </div>
                 </div>
             </div>
             <div className='bg-white px-[40px] py-[60px] flex items-center justify-center'>
-                <h1 className='text-6xl font-bold w-[50%] text-[#039be6]'>We take action.
+                <h1 className='sm:text-6xl text-3xl font-bold w-[50%] text-[#039be6]'>We take action.
                     Stand up. Connect.
                     Together with people like you we create a sustainable future. Together for our planet.</h1>
             </div>

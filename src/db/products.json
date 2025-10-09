@@ -6,12 +6,12 @@
             {
                 "name": "Sunflower Oil",
                 "slug": "sunflower",
-                "image": "/images/sunflower oil.png",
+                "image": "/images/sunfloweroil1.jpg",
                 "images": {
-                    "main": "/images/sunflower oil.png",
+                    "main": "/images/sunfloweroil1.jpg",
                     "gallery": [
-                        "/images/sunflower oil.jpg",
-                        "/images/sunflower oil.png"
+                        "/images/sunfloweroil1.jpg",
+                        "/images/sunfloweroil2.jpg"
                     ]
                 },
                 "description": "Our refined organic sunflower oil is produced from the highest quality sunflower seeds cultivated under sustainable and organic farming practices. The oil undergoes a careful hot-press extraction and multiple filtration stages, including bleaching and vacuum deodorization, to yield a clear, odorless, light-golden oil with exceptional purity. With a high smoke point and neutral taste, it is one of the most versatile edible oils suitable for frying, sautéing, baking, and salad dressings. Rich in Vitamin E, omega-6 fatty acids, and natural antioxidants, it supports heart health and promotes radiant skin. Beyond culinary use, it is highly valued in the cosmetic and pharmaceutical industries for its moisturizing and anti-inflammatory properties.",
@@ -69,12 +69,12 @@
             {
                 "name": "Palm Oil",
                 "slug": "palm",
-                "image": "/images/Palm oil 1.jpg",
+                "image": "/images/palmoil1.jpg",
                 "images": {
-                    "main": "/images/Palm oil 1.jpg",
+                    "main": "/images/palmoil1.jpg",
                     "gallery": [
-                        "/images/Palm oil 1.jpg",
-                        "/images/Palm Oil 2.jpg"
+                        "/images/palmoil1.jpg",
+                        "/images/palmoil2.jpg"
                     ]
                 },
                 "description": "Our organic palm oil is carefully sourced and refined to meet international standards of quality, purity, and sustainability. Extracted from the fruit of the oil palm tree (Elaeis guineensis), this oil is semi-solid at room temperature, with excellent oxidative stability and a neutral taste when refined. It is a preferred choice for frying, cooking, and industrial food processing due to its resistance to rancidity and high smoke point. In addition to its extensive use in food products such as margarine, confectionery, and bakery fats, palm oil also finds significant application in cosmetics, soaps, and as a raw material in biofuel production. Our processing includes bleaching at 90–100°C and vacuum deodorization at 190–270°C to ensure optimal purity and color consistency.",
@@ -136,12 +136,12 @@
             {
                 "name": "Olive Oil",
                 "slug": "olive",
-                "image": "/images/Olive oil 1.jpg",
+                "image": "/images/oliveoil1.jpg",
                 "images": {
-                    "main": "/images/Olive oil 1.jpg",
+                    "main": "/images/oliveoil1.jpg",
                     "gallery": [
-                        "/images/Olive oil 1.jpg",
-                        "/images/Olive oil 2.jpg"
+                        "/images/oliveoil1.jpg",
+                        "/images/oliveoil2.jpg"
                     ]
                 },
                 "description": "Our cold-pressed extra virgin olive oil is crafted from handpicked organic olives sourced from Italy’s Mediterranean groves. Each batch is pressed within hours of harvest to preserve its vibrant green-golden hue, fresh grassy aroma, and naturally fruity taste with subtle peppery notes. Rich in monounsaturated fats, polyphenols, and antioxidants, this oil is ideal for dressings, marinades, drizzling, and low-heat cooking. It supports cardiovascular health and promotes anti-inflammatory benefits. The traditional mechanical cold-pressing and natural filtration methods ensure premium quality and authenticity.",
@@ -199,12 +199,12 @@
             {
                 "name": "Sesame Oil",
                 "slug": "sesame",
-                "image": "/images/sesame seed 1.png",
+                "image": "/images/sesameoil1.jpg",
                 "images": {
-                    "main": "/images/sesame seed 1.png",
+                    "main": "/images/sesameoil1.jpg",
                     "gallery": [
-                        "/images/sesame seed 1.png",
-                        "/images/sesame seed 2.png"
+                        "/images/sesameoil1.jpg",
+                        "/images/sesameoil2.jpg"
                     ]
                 },
                 "description": "Our organic cold-pressed sesame oil is produced from high-quality sesame seeds (Sesamum indicum) cultivated in Kenya. Extracted mechanically without the use of heat or chemicals, the oil retains its distinctive nutty aroma and rich golden color. It is a staple in Asian and Middle Eastern cuisines, used in stir-fries, marinades, sauces, and salad dressings. Sesame oil is also treasured in cosmetics, aromatherapy, and Ayurvedic medicine for its skin-conditioning, antioxidant, and anti-inflammatory benefits.",
@@ -263,12 +263,12 @@
             {
                 "name": "Coconut Oil",
                 "slug": "coconut",
-                "image": "/images/Coconut 1.jpg",
+                "image": "/images/coconutoil1.jpg",
                 "images": {
-                    "main": "/images/Coconut 1.jpg",
+                    "main": "/images/coconutoil1.jpg",
                     "gallery": [
-                        "/images/Coconut 1.jpg",
-                        "/images/Coconut 2.jpg"
+                        "/images/coconutoil1.jpg",
+                        "/images/coconutoil2.jpg"
                     ]
                 },
                 "description": "Our virgin coconut oil is produced from fresh, organically grown coconuts through a gentle cold-press process that maintains its natural coconut aroma, taste, and nutrient profile. Extracted from the dried kernel (copra) at low temperatures of 40–45°C and filtered for purity, it is rich in medium-chain triglycerides (MCTs), lauric acid, and antioxidants. It promotes energy, supports immune health, and nourishes hair and skin. Ideal for low to medium-heat cooking, baking, skincare, and wellness applications.",
@@ -328,12 +328,12 @@
             {
                 "name": "Rapeseed oil",
                 "slug": "rapeseed",
-                "image": "/images/Coconut 1.jpg",
+                "image": "/images/rapeseedoil1.jpg",
                 "images": {
-                    "main": "/images/Coconut 1.jpg",
+                    "main": "/images/rapeseedoil1.jpg",
                     "gallery": [
-                        "/images/Coconut 1.jpg",
-                        "/images/Coconut 2.jpg"
+                        "/images/rapeseedoil1.jpg",
+                        "/images/rapeseedoil2.jpg"
                     ]
                 },
                 "description": "Experience our deodorized rapeseed oil, carefully pressed from the finest rapeseeds. With its high smoke point, it is the secret ingredient for perfectly crisp fries, golden-brown baked goods, and flavourful dressings. This organic rapeseed oil is crafted for both gourmet chefs and industrial innovators alike. ",
@@ -398,12 +398,12 @@
             {
                 "name": "Kenya AA Coffee",
                 "slug": "kenya-aa",
-                "image": "/images/Kenya AA 1.jpg",
+                "image": "/images/kenya aa.jpg",
                 "images": {
-                    "main": "/images/Kenya AA 1.jpg",
+                    "main": "/images/kenya aa.jpg",
                     "gallery": [
-                        "/images/Kenya AA 1.jpg",
-                        "/images/Kenya AA 2.jpg"
+                        "/images/kenya aa.jpg",
+                        "/images/kenya aa 2.jpg"
                     ]
                 },
                 "description": "Kenya AA Coffee represents the highest grade of Arabica coffee cultivated in Kenya, grown at altitudes of 1,400 to 2,000 meters above sea level. These high elevations and rich volcanic soils create the perfect environment for developing complex flavors. The beans are large, dense, and uniform, characterized by their vibrant acidity, full body, and intense aroma. The cup profile features bright citrus and berry notes, with hints of black currant and wine-like undertones — a hallmark of Kenya’s globally celebrated coffee. Each bean undergoes meticulous hand-picking, wet-processing, and sun-drying before export, ensuring unmatched consistency and quality.",
@@ -460,12 +460,12 @@
             {
                 "name": "Kenya AB Coffee",
                 "slug": "kenya-ab",
-                "image": "/images/Kenya AB 1.jpg",
+                "image": "/images/AB 1.jpg",
                 "images": {
-                    "main": "/images/Kenya AB 1.jpg",
+                    "main": "/images/AB 1.jpg",
                     "gallery": [
-                        "/images/Kenya AB 1.jpg",
-                        "/images/Kenya AB 2.jpg"
+                        "/images/AB 1.jpg",
+                        "/images/AB2.jpg"
                     ]
                 },
                 "description": "Kenya AB Coffee is a balanced, high-quality Arabica grade made up of slightly smaller beans than AA. It combines the A and B bean grades, offering a smooth and consistent flavor. Known for its balanced acidity, medium body, and sweet fruity notes, it is one of the most commercially available Kenyan coffee grades. It captures the essence of Kenyan coffee with berry-like sweetness, pleasant floral notes, and a crisp, clean finish. Approximately 40% of Kenya’s total coffee production falls under the AB category, making it the preferred choice for both single-origin and blend roasters worldwide.",
@@ -522,12 +522,12 @@
             {
                 "name": "Kenya PB (Peaberry) Coffee",
                 "slug": "kenya-pb",
-                "image": "/images/Kenya PB 1.jpg",
+                "image": "/images/peabeery.jpg",
                 "images": {
-                    "main": "/images/Kenya PB 1.jpg",
+                    "main": "/images/peabeery.jpg",
                     "gallery": [
-                        "/images/Kenya PB 1.jpg",
-                        "/images/Kenya PB 2.jpg"
+                        "/images/peabeery.jpg",
+                        "/images/peaberry.jpg"
                     ]
                 },
                 "description": "Kenya Peaberry Coffee (PB) is a rare and naturally occurring coffee mutation where only one rounded bean grows inside the coffee cherry instead of two. This unique formation allows the bean to roast more evenly, producing an intense and concentrated flavor. With its rich body, complex aroma, and sweet berry and citrus notes, Kenya PB offers an exceptional cup experience. Representing only about 5% of Kenya’s total coffee production, this grade is highly sought after by specialty roasters around the world for its full-bodied character and vibrant acidity.",
@@ -582,12 +582,12 @@
             {
                 "name": "Robusta Coffee",
                 "slug": "robusta",
-                "image": "/images/Robusta 1.jpg",
+                "image": "/images/robusta.jpg",
                 "images": {
-                    "main": "/images/Robusta 1.jpg",
+                    "main": "/images/robusta.jpg",
                     "gallery": [
-                        "/images/Robusta 1.jpg",
-                        "/images/Robusta 2.jpg"
+                        "/images/robusta.jpg",
+                        "/images/robusta2.jpg"
                     ]
                 },
                 "description": "Kenyan Robusta coffee is known for its strong flavor, deep body, and high caffeine content, making it a preferred component in espresso and instant coffee blends. Grown in lower-altitude regions under optimal tropical conditions, Robusta offers a bold taste profile with earthy, nutty, and cocoa notes. The beans have a natural resistance to pests and yield consistently high production volumes. Ideal for enhancing crema and texture in espresso blends, Robusta also forms the foundation for industrial and soluble coffee applications worldwide.",
@@ -639,6 +639,1257 @@
                     "Robusta coffee",
                     "Espresso blend",
                     "High caffeine"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Cereals & Pulses",
+        "slug": "cereals-pulses",
+        "subProducts": [
+            {
+                "name": "Maize (Corn)",
+                "slug": "maize",
+                "image": "/images/maize1.jpg",
+                "images": {
+                    "main": "/images/maize1.jpg",
+                    "gallery": [
+                        "/images/maize1.jpg",
+                        "/images/maize2.jpg"
+                    ]
+                },
+                "description": "Our high-grade white and yellow maize is sourced from carefully selected farms across East Africa. Grown in fertile volcanic soils and harvested under optimal conditions, the kernels are fully matured, dried to ideal moisture levels, and thoroughly cleaned to ensure purity and safety. Maize serves as a global dietary staple, used for food production, animal feed, and industrial applications. It is processed into maize flour, grits, starch, and ethanol. With its high starch content and nutritional value, our maize meets both food-grade and feed-grade standards.",
+                "origin": [
+                    "Kenya",
+                    "Tanzania",
+                    "Uganda"
+                ],
+                "metrics": {
+                    "Moisture": "< 13%",
+                    "Impurities": "< 2%",
+                    "Broken kernels": "< 5%",
+                    "Aflatoxin": "< 10 ppb",
+                    "ShelfLife": "12 months"
+                },
+                "desc": {
+                    "Description": "White and yellow maize grains for food and industrial use",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Tanzania, Uganda",
+                    "Latin name": "Zea mays"
+                },
+                "applications": [
+                    "Human consumption (maize flour, grits)",
+                    "Animal feed",
+                    "Brewing and distilling",
+                    "Starch and ethanol production"
+                ],
+                "supply": {
+                    "capacity": "1,200 MT/month",
+                    "packaging": [
+                        "25kg polypropylene bags",
+                        "50kg bags",
+                        "Bulk shipments"
+                    ]
+                },
+                "specifics": {
+                    "Protein": "8–10%",
+                    "Fat": "4–5%",
+                    "Carbohydrates": "70–75%",
+                    "Energy (kcal)": "360 kcal/100g"
+                },
+                "features": [
+                    "Non-GMO, sun-dried, and naturally processed",
+                    "Suitable for both food-grade and feed-grade applications",
+                    "High starch yield and consistent grain size",
+                    "Complies with regional and international export standards"
+                ],
+                "tags": [
+                    "Maize",
+                    "Corn",
+                    "Grains"
+                ]
+            },
+            {
+                "name": "Rice (Paddy and Milled)",
+                "slug": "rice",
+                "image": "/images/rice1.jpg",
+                "images": {
+                    "main": "/images/rice1.jpg",
+                    "gallery": [
+                        "/images/rice1.jpg",
+                        "/images/rice2.jpg"
+                    ]
+                },
+                "description": "Our premium long-grain rice is cultivated in Kenya’s Mwea irrigation zone and other fertile African lowlands. Each grain is carefully harvested, de-husked, and polished to deliver uniform, fragrant rice with a smooth texture. The product includes both paddy (unmilled) and milled varieties suitable for consumption and further processing. With a naturally rich aroma and soft cooking quality, this rice is ideal for households, restaurants, and food industries seeking superior quality. We also supply broken rice and by-products for feed and brewing applications.",
+                "origin": [
+                    "Kenya",
+                    "Tanzania"
+                ],
+                "metrics": {
+                    "Moisture": "< 13%",
+                    "Broken grains": "< 5%",
+                    "Purity": "99.5%",
+                    "ShelfLife": "24 months"
+                },
+                "desc": {
+                    "Description": "Long-grain white and paddy rice",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Tanzania",
+                    "Latin name": "Oryza sativa"
+                },
+                "applications": [
+                    "Household consumption",
+                    "Food processing",
+                    "Brewing and fermentation",
+                    "Animal feed (broken rice)"
+                ],
+                "supply": {
+                    "capacity": "1,000 MT/month",
+                    "packaging": [
+                        "25kg woven bags",
+                        "50kg polypropylene bags",
+                        "Bulk cargo"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "1500 kJ",
+                    "Energy (kcal)": "360 kcal",
+                    "Carbohydrates": "78 g",
+                    "Protein": "8 g",
+                    "Fat": "1 g"
+                },
+                "features": [
+                    "High-quality long-grain texture and aroma",
+                    "Low breakage rate and uniform grain size",
+                    "Processed in certified milling facilities",
+                    "Suitable for both local and export markets"
+                ],
+                "tags": [
+                    "Rice",
+                    "Grains",
+                    "Long-grain"
+                ]
+            },
+            {
+                "name": "Sorghum",
+                "slug": "sorghum",
+                "image": "/images/sorghum1.jpg",
+                "images": {
+                    "main": "/images/sorghum1.jpg",
+                    "gallery": [
+                        "/images/sorghum1.jpg",
+                        "/images/sorghum2.jpg"
+                    ]
+                },
+                "description": "Our high-quality red and white sorghum is cultivated under optimal dryland conditions, ensuring a naturally gluten-free and nutrient-rich grain. Sorghum is valued for its high fiber, protein, and antioxidant content, making it an essential ingredient in health foods, beverages, and livestock feed. It is used in brewing, porridge, flour milling, and ethanol production. The grain’s natural resistance to drought and pests supports sustainable farming and stable supply.",
+                "origin": [
+                    "Kenya",
+                    "Sudan",
+                    "Tanzania"
+                ],
+                "metrics": {
+                    "Moisture": "< 12%",
+                    "Impurities": "< 1%",
+                    "Broken grains": "< 2%",
+                    "ShelfLife": "24 months"
+                },
+                "desc": {
+                    "Description": "Red and white sorghum grains",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Sudan, Tanzania",
+                    "Latin name": "Sorghum bicolor"
+                },
+                "applications": [
+                    "Food (porridge, flour, malt)",
+                    "Brewing industry",
+                    "Animal feed",
+                    "Ethanol production"
+                ],
+                "supply": {
+                    "capacity": "800 MT/month",
+                    "packaging": [
+                        "25kg bags",
+                        "50kg bags",
+                        "Bulk silos"
+                    ]
+                },
+                "specifics": {
+                    "Protein": "10–12%",
+                    "Carbohydrates": "70–75%",
+                    "Fat": "3%",
+                    "Energy (kcal)": "350 kcal/100g"
+                },
+                "features": [
+                    "Naturally gluten-free and high in dietary fiber",
+                    "Ideal for breweries and flour processors",
+                    "Sourced from drought-resistant crops",
+                    "Sustainably farmed and cleaned for export"
+                ],
+                "tags": [
+                    "Sorghum",
+                    "Grain",
+                    "Gluten-free"
+                ]
+            },
+            {
+                "name": "Beans (Mixed Varieties)",
+                "slug": "beans",
+                "image": "/images/beans1.jpg",
+                "images": {
+                    "main": "/images/beans1.jpg",
+                    "gallery": [
+                        "/images/beans1.jpg",
+                        "/images/beans2.jpg"
+                    ]
+                },
+                "description": "We supply a wide selection of high-quality dry beans including red kidney, black, pinto, navy, and yellow beans. These are naturally sun-dried and sorted to remove impurities. Our beans are rich in protein, fiber, and complex carbohydrates, making them a vital source of plant-based nutrition. They are used in household cooking, canning, and food processing industries across Africa and internationally. Each batch is tested for moisture and aflatoxin to meet export-grade safety standards.",
+                "origin": [
+                    "Kenya",
+                    "Tanzania",
+                    "Uganda"
+                ],
+                "metrics": {
+                    "Moisture": "< 13%",
+                    "Impurities": "< 1%",
+                    "Defective grains": "< 3%",
+                    "ShelfLife": "18 months"
+                },
+                "desc": {
+                    "Description": "Red kidney, black, pinto, navy, and yellow beans",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Tanzania, Uganda",
+                    "Latin name": "Phaseolus vulgaris"
+                },
+                "applications": [
+                    "Food processing",
+                    "Canning",
+                    "Household cooking",
+                    "Export trade"
+                ],
+                "supply": {
+                    "capacity": "900 MT/month",
+                    "packaging": [
+                        "25kg woven bags",
+                        "50kg bags",
+                        "Bulk export containers"
+                    ]
+                },
+                "specifics": {
+                    "Protein": "22–25%",
+                    "Carbohydrates": "60%",
+                    "Fat": "1.5%",
+                    "Energy (kcal)": "340 kcal/100g"
+                },
+                "features": [
+                    "High in plant-based protein and fiber",
+                    "Multiple varieties available to suit diverse markets",
+                    "Naturally sun-dried and machine-cleaned",
+                    "Non-GMO and aflatoxin compliant"
+                ],
+                "tags": [
+                    "Beans",
+                    "Legumes",
+                    "Protein-rich"
+                ]
+            },
+            {
+                "name": "Lentils (Green and Red)",
+                "slug": "lentils",
+                "image": "/images/lentils1.jpg",
+                "images": {
+                    "main": "/images/lentils1.jpg",
+                    "gallery": [
+                        "/images/lentils1.jpg",
+                        "/images/lentils2.jpg"
+                    ]
+                },
+                "description": "Our lentils are sourced from high-yield farms that practice sustainable agriculture. We supply both green and red split lentils, cleaned and graded to export specifications. Lentils are known for their quick cooking properties and are a rich source of plant-based protein, iron, and dietary fiber. They are used extensively in soups, stews, curries, and ready-to-eat food production. We offer uniform grain size and moisture-controlled packaging to preserve quality.",
+                "origin": [
+                    "Kenya",
+                    "Ethiopia"
+                ],
+                "metrics": {
+                    "Moisture": "< 13%",
+                    "Defective grains": "< 2%",
+                    "Purity": "> 99%",
+                    "ShelfLife": "24 months"
+                },
+                "desc": {
+                    "Description": "Whole and split lentils (green and red)",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Ethiopia",
+                    "Latin name": "Lens culinaris"
+                },
+                "applications": [
+                    "Soups and stews",
+                    "Canned foods",
+                    "Plant protein blends",
+                    "Export and retail"
+                ],
+                "supply": {
+                    "capacity": "700 MT/month",
+                    "packaging": [
+                        "25kg woven bags",
+                        "50kg bags",
+                        "Bulk shipments"
+                    ]
+                },
+                "specifics": {
+                    "Protein": "24–26%",
+                    "Carbohydrates": "60%",
+                    "Fat": "1.2%",
+                    "Energy (kcal)": "340 kcal/100g"
+                },
+                "features": [
+                    "Naturally high in protein and iron",
+                    "Quick-cooking and versatile in global cuisines",
+                    "Sustainably farmed and machine-cleaned",
+                    "Available in whole and split varieties"
+                ],
+                "tags": [
+                    "Lentils",
+                    "Protein",
+                    "Legumes"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Nuts & Seeds",
+        "slug": "nuts-seeds",
+        "subProducts": [
+            {
+                "name": "Cashew Nuts",
+                "slug": "cashew",
+                "image": "/images/cashew1.jpg",
+                "images": {
+                    "main": "/images/cashew1.jpg",
+                    "gallery": [
+                        "/images/cashew1.jpg",
+                        "/images/cashew2.jpg"
+                    ]
+                },
+                "description": "Our premium organic cashew nuts are sourced from coastal East Africa, primarily grown in the tropical regions of Kenya and Tanzania. Each nut is handpicked and processed under stringent hygienic standards, ensuring superior crunch, creamy texture, and authentic natural taste. The nuts are shelled, dried, and graded for size and quality before being vacuum packed to preserve freshness. Cashew nuts are rich in healthy fats, plant protein, magnesium, and antioxidants — making them ideal for snacks, confectionery, nut butters, and culinary applications.",
+                "origin": [
+                    "Kenya",
+                    "Tanzania"
+                ],
+                "metrics": {
+                    "Moisture": "< 5%",
+                    "Broken nuts": "< 10%",
+                    "Defective nuts": "< 2%",
+                    "ShelfLife": "12 months"
+                },
+                "desc": {
+                    "Description": "Whole, split, and broken cashew kernels (W240, W320, W450 grades)",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Tanzania",
+                    "Latin name": "Anacardium occidentale"
+                },
+                "applications": [
+                    "Snacking",
+                    "Confectionery and baking",
+                    "Nut butters",
+                    "Culinary sauces",
+                    "Export retail packs"
+                ],
+                "supply": {
+                    "capacity": "500 MT/month",
+                    "packaging": [
+                        "1kg vacuum-sealed bags",
+                        "25kg cartons",
+                        "Bulk export containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "2530 kJ",
+                    "Energy (kcal)": "600 kcal",
+                    "Fat": "46 g",
+                    "of which saturated": "9 g",
+                    "Carbohydrates": "30 g",
+                    "Protein": "18 g",
+                    "Dietary fibre": "3 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "Handpicked and organically grown cashew nuts",
+                    "Available in various export grades (W240, W320, W450)",
+                    "Rich in healthy fats, magnesium, and antioxidants",
+                    "Processed and vacuum-packed to preserve freshness"
+                ],
+                "tags": [
+                    "Cashew nuts",
+                    "Healthy snack",
+                    "Organic"
+                ]
+            },
+            {
+                "name": "Macadamia Nuts",
+                "slug": "macadamia",
+                "image": "/images/macadamia1.jpg",
+                "images": {
+                    "main": "/images/macadamia1.jpg",
+                    "gallery": [
+                        "/images/macadamia1.jpg",
+                        "/images/macadamia2.jpg"
+                    ]
+                },
+                "description": "Our macadamia nuts are sourced from the fertile highlands of Kenya, where nutrient-rich volcanic soils and optimal climate produce some of the finest nuts in the world. Grown organically and harvested at peak maturity, the nuts are dried, cracked, and sorted into premium grades. Macadamias are valued for their buttery flavor, smooth texture, and high monounsaturated fat content. They are used in luxury snacks, chocolates, nut butters, and cosmetic oils. Our nuts are processed under HACCP-certified facilities, ensuring premium export quality and consistency.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "Moisture": "< 1.5%",
+                    "Oil content": "72–78%",
+                    "Defective nuts": "< 1%",
+                    "ShelfLife": "12 months"
+                },
+                "desc": {
+                    "Description": "Raw and roasted macadamia kernels (Style 0–8)",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya",
+                    "Latin name": "Macadamia integrifolia"
+                },
+                "applications": [
+                    "Snacks and confectionery",
+                    "Nut butter and spreads",
+                    "Baking ingredients",
+                    "Cosmetic and skincare oil"
+                ],
+                "supply": {
+                    "capacity": "300 MT/month",
+                    "packaging": [
+                        "Vacuum-sealed 5kg or 25kg cartons",
+                        "Bulk export containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "3000 kJ",
+                    "Energy (kcal)": "720 kcal",
+                    "Fat": "76 g",
+                    "of which saturated": "12 g",
+                    "Carbohydrates": "14 g",
+                    "Protein": "8 g",
+                    "Dietary fibre": "8 g",
+                    "Salt": "0 g"
+                },
+                "features": [
+                    "Premium Kenyan macadamias with high oil content",
+                    "Naturally cholesterol-free and rich in monounsaturated fats",
+                    "HACCP and ISO-certified processing facilities",
+                    "Available in multiple export grades and packaging formats"
+                ],
+                "tags": [
+                    "Macadamia",
+                    "Premium nuts",
+                    "Healthy fats"
+                ]
+            },
+            {
+                "name": "Groundnuts (Peanuts)",
+                "slug": "groundnuts",
+                "image": "/images/groundnuts1.jpg",
+                "images": {
+                    "main": "/images/groundnuts1.jpg",
+                    "gallery": [
+                        "/images/groundnuts1.jpg",
+                        "/images/groundnuts2.jpg"
+                    ]
+                },
+                "description": "Our organically grown groundnuts (peanuts) are carefully selected, shelled, and graded for uniform size and quality. Sourced from certified smallholder farmers in Kenya, they are rich in protein, healthy fats, and essential minerals. The nuts are available raw, roasted, or blanched, suitable for human consumption and industrial uses such as peanut butter, confectionery, and snacks. Strict moisture control and aflatoxin testing ensure food safety and compliance with international standards.",
+                "origin": [
+                    "Kenya",
+                    "Malawi"
+                ],
+                "metrics": {
+                    "Moisture": "< 8%",
+                    "Aflatoxin": "< 10 ppb",
+                    "Broken nuts": "< 5%",
+                    "ShelfLife": "12 months"
+                },
+                "desc": {
+                    "Description": "Raw and roasted groundnuts (red and white varieties)",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Malawi",
+                    "Latin name": "Arachis hypogaea"
+                },
+                "applications": [
+                    "Peanut butter production",
+                    "Roasted snacks",
+                    "Oil extraction",
+                    "Confectionery ingredients"
+                ],
+                "supply": {
+                    "capacity": "1,000 MT/month",
+                    "packaging": [
+                        "25kg woven bags",
+                        "50kg bags",
+                        "Bulk export containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "2500 kJ",
+                    "Energy (kcal)": "600 kcal",
+                    "Fat": "49 g",
+                    "Protein": "26 g",
+                    "Carbohydrates": "16 g",
+                    "Fibre": "9 g"
+                },
+                "features": [
+                    "High protein and energy-dense legume",
+                    "Aflatoxin-tested and certified for export",
+                    "Suitable for both food and industrial applications",
+                    "Sustainably grown and naturally sun-dried"
+                ],
+                "tags": [
+                    "Groundnuts",
+                    "Peanuts",
+                    "Protein"
+                ]
+            },
+            {
+                "name": "Sesame Seeds",
+                "slug": "sesame-seeds",
+                "image": "/images/sesame1.jpg",
+                "images": {
+                    "main": "/images/sesame1.jpg",
+                    "gallery": [
+                        "/images/sesame1.jpg",
+                        "/images/sesame2.jpg"
+                    ]
+                },
+                "description": "Our natural white and brown sesame seeds are sourced from smallholder farmers in Kenya and Tanzania. These oil-rich seeds are carefully cleaned, graded, and dried to maintain purity and consistent size. Sesame seeds are a vital raw material in bakery products, tahini paste, sesame oil extraction, and snack toppings. Rich in calcium, iron, and antioxidants, they are both a nutritional powerhouse and an industrial essential. We offer both hulled and unhulled varieties, processed in hygienic facilities to international standards.",
+                "origin": [
+                    "Kenya",
+                    "Tanzania"
+                ],
+                "metrics": {
+                    "Moisture": "< 8%",
+                    "Purity": "99.9%",
+                    "Oil content": "48–52%",
+                    "ShelfLife": "12 months"
+                },
+                "desc": {
+                    "Description": "Natural and hulled sesame seeds (white and brown)",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Tanzania",
+                    "Latin name": "Sesamum indicum"
+                },
+                "applications": [
+                    "Oil extraction",
+                    "Tahini and hummus",
+                    "Baked goods",
+                    "Snack toppings"
+                ],
+                "supply": {
+                    "capacity": "800 MT/month",
+                    "packaging": [
+                        "25kg woven bags",
+                        "50kg bags",
+                        "Bulk export containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "2500 kJ",
+                    "Energy (kcal)": "595 kcal",
+                    "Fat": "50 g",
+                    "Protein": "18 g",
+                    "Carbohydrates": "23 g",
+                    "Fibre": "12 g"
+                },
+                "features": [
+                    "High oil content ideal for tahini and sesame oil",
+                    "Available in both hulled and unhulled forms",
+                    "Processed under food-grade hygiene standards",
+                    "Rich source of calcium and antioxidants"
+                ],
+                "tags": [
+                    "Sesame seeds",
+                    "Oilseeds",
+                    "Tahini"
+                ]
+            },
+            {
+                "name": "Chia Seeds",
+                "slug": "chia-seeds",
+                "image": "/images/chia1.jpg",
+                "images": {
+                    "main": "/images/chia1.jpg",
+                    "gallery": [
+                        "/images/chia1.jpg",
+                        "/images/chia2.jpg"
+                    ]
+                },
+                "description": "Our premium chia seeds are organically grown and naturally dried, maintaining their exceptional nutritional profile. Packed with omega-3 fatty acids, fiber, and antioxidants, chia seeds are considered a superfood. They are used in cereals, smoothies, baked goods, and health supplements. The seeds are cleaned and graded for export, ensuring purity and uniformity. Due to their excellent water-absorbing capacity, they are popular in vegan and gluten-free recipes as a natural thickening or binding agent.",
+                "origin": [
+                    "Kenya",
+                    "Uganda"
+                ],
+                "metrics": {
+                    "Moisture": "< 8%",
+                    "Purity": "99.5%",
+                    "ShelfLife": "24 months"
+                },
+                "desc": {
+                    "Description": "Organic black chia seeds",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Uganda",
+                    "Latin name": "Salvia hispanica"
+                },
+                "applications": [
+                    "Smoothies and breakfast cereals",
+                    "Baked products",
+                    "Health supplements",
+                    "Vegan food formulations"
+                ],
+                "supply": {
+                    "capacity": "400 MT/month",
+                    "packaging": [
+                        "25kg bags",
+                        "1kg retail pouches",
+                        "Bulk export containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "2000 kJ",
+                    "Energy (kcal)": "486 kcal",
+                    "Fat": "31 g",
+                    "Protein": "17 g",
+                    "Carbohydrates": "42 g",
+                    "Fibre": "34 g"
+                },
+                "features": [
+                    "100% natural and gluten-free superfood",
+                    "High in omega-3 and dietary fiber",
+                    "Ideal for both food manufacturing and retail packaging",
+                    "Long shelf life and organically certified"
+                ],
+                "tags": [
+                    "Chia seeds",
+                    "Superfood",
+                    "Omega-3"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Spices & Herbs",
+        "slug": "spices-herbs",
+        "subProducts": [
+            {
+                "name": "Black Pepper",
+                "slug": "black-pepper",
+                "image": "/images/blackpepper1.jpg",
+                "images": {
+                    "main": "/images/blackpepper1.jpg",
+                    "gallery": [
+                        "/images/blackpepper1.jpg",
+                        "/images/blackpepper2.jpg"
+                    ]
+                },
+                "description": "Our premium-grade black pepper is handpicked from mature pepper vines grown organically in East Africa. Known as the 'King of Spices', it delivers a bold, sharp, and aromatic flavor that enhances savory dishes worldwide. The berries are harvested just before ripening, sun-dried, and machine-sorted to ensure uniform grain size and pungency. Black pepper is rich in piperine, essential oils, and antioxidants — offering both culinary and medicinal benefits. It is widely used in seasonings, sauces, marinades, and traditional remedies for digestion and immunity.",
+                "origin": [
+                    "Kenya",
+                    "Uganda",
+                    "India"
+                ],
+                "metrics": {
+                    "Moisture": "< 12%",
+                    "Piperine content": "4–6%",
+                    "Purity": "> 99%",
+                    "ShelfLife": "24 months"
+                },
+                "desc": {
+                    "Description": "Whole and ground black pepper",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Uganda, India",
+                    "Latin name": "Piper nigrum"
+                },
+                "applications": [
+                    "Seasonings and sauces",
+                    "Marinades",
+                    "Processed foods",
+                    "Traditional medicine"
+                ],
+                "supply": {
+                    "capacity": "600 MT/month",
+                    "packaging": [
+                        "25kg paper bags",
+                        "50kg woven sacks",
+                        "Bulk export containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "1090 kJ",
+                    "Energy (kcal)": "260 kcal",
+                    "Fat": "3 g",
+                    "Protein": "10 g",
+                    "Carbohydrates": "64 g",
+                    "Fibre": "25 g"
+                },
+                "features": [
+                    "High piperine content for bold aroma and taste",
+                    "Sun-dried and machine-sorted for purity",
+                    "Naturally rich in antioxidants and essential oils",
+                    "Ideal for culinary, industrial, and therapeutic use"
+                ],
+                "tags": [
+                    "Black pepper",
+                    "Spices",
+                    "Organic"
+                ]
+            },
+            {
+                "name": "Cloves",
+                "slug": "cloves",
+                "image": "/images/cloves1.jpg",
+                "images": {
+                    "main": "/images/cloves1.jpg",
+                    "gallery": [
+                        "/images/cloves1.jpg",
+                        "/images/cloves2.jpg"
+                    ]
+                },
+                "description": "Our aromatic cloves are sourced from the coastal regions of Kenya and Zanzibar, known for producing some of the world’s finest spice crops. The dried flower buds of the clove tree are handpicked and sun-cured to retain their rich essential oil content and strong, sweet aroma. Cloves are widely used in cooking, bakery, beverages, and traditional medicine due to their antiseptic and anti-inflammatory properties. Their high eugenol content makes them ideal for use in dental, pharmaceutical, and perfumery industries.",
+                "origin": [
+                    "Kenya",
+                    "Zanzibar",
+                    "Tanzania"
+                ],
+                "metrics": {
+                    "Moisture": "< 12%",
+                    "Eugenol content": "75–85%",
+                    "Purity": "99%",
+                    "ShelfLife": "24 months"
+                },
+                "desc": {
+                    "Description": "Whole and ground dried clove buds",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Zanzibar, Tanzania",
+                    "Latin name": "Syzygium aromaticum"
+                },
+                "applications": [
+                    "Culinary seasoning",
+                    "Baking and confectionery",
+                    "Pharmaceutical formulations",
+                    "Perfumes and aromatherapy"
+                ],
+                "supply": {
+                    "capacity": "500 MT/month",
+                    "packaging": [
+                        "25kg bags",
+                        "50kg jute sacks",
+                        "Bulk export containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "1200 kJ",
+                    "Energy (kcal)": "290 kcal",
+                    "Fat": "13 g",
+                    "Protein": "6 g",
+                    "Carbohydrates": "65 g",
+                    "Fibre": "34 g"
+                },
+                "features": [
+                    "High eugenol oil content for intense aroma and flavor",
+                    "Handpicked and sun-dried to preserve natural oils",
+                    "Multi-purpose for food, cosmetics, and pharmaceutical industries",
+                    "Certified organic and sustainably harvested"
+                ],
+                "tags": [
+                    "Cloves",
+                    "Aromatic spice",
+                    "Essential oils"
+                ]
+            },
+            {
+                "name": "Cardamom",
+                "slug": "cardamom",
+                "image": "/images/cardamom1.jpg",
+                "images": {
+                    "main": "/images/cardamom1.jpg",
+                    "gallery": [
+                        "/images/cardamom1.jpg",
+                        "/images/cardamom2.jpg"
+                    ]
+                },
+                "description": "Our cardamom pods are hand-harvested from high-altitude tropical farms, offering a sweet, floral, and slightly spicy aroma. Often referred to as the 'Queen of Spices', cardamom is prized in culinary, confectionery, and beverage industries. The pods are carefully dried and sorted to preserve the volatile oils that give their distinct fragrance. Cardamom is rich in antioxidants and has digestive, antimicrobial, and anti-inflammatory benefits. It is a key ingredient in chai tea, baked goods, and spice blends such as garam masala.",
+                "origin": [
+                    "Kenya",
+                    "Guatemala",
+                    "India"
+                ],
+                "metrics": {
+                    "Moisture": "< 12%",
+                    "Oil content": "6–8%",
+                    "Purity": "99%",
+                    "ShelfLife": "24 months"
+                },
+                "desc": {
+                    "Description": "Whole green and ground cardamom pods",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Guatemala, India",
+                    "Latin name": "Elettaria cardamomum"
+                },
+                "applications": [
+                    "Beverages (tea, coffee flavoring)",
+                    "Baking and confectionery",
+                    "Culinary spice blends",
+                    "Aromatherapy oils"
+                ],
+                "supply": {
+                    "capacity": "300 MT/month",
+                    "packaging": [
+                        "25kg cartons",
+                        "50kg jute bags",
+                        "Bulk export containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "1400 kJ",
+                    "Energy (kcal)": "310 kcal",
+                    "Fat": "6.7 g",
+                    "Protein": "11 g",
+                    "Carbohydrates": "68 g",
+                    "Fibre": "28 g"
+                },
+                "features": [
+                    "Distinct sweet and aromatic flavor",
+                    "High essential oil content for superior aroma retention",
+                    "Versatile spice for food and beverages",
+                    "Handpicked and naturally dried pods"
+                ],
+                "tags": [
+                    "Cardamom",
+                    "Spices",
+                    "Aromatic"
+                ]
+            },
+            {
+                "name": "Turmeric",
+                "slug": "turmeric",
+                "image": "/images/turmeric1.jpg",
+                "images": {
+                    "main": "/images/turmeric1.jpg",
+                    "gallery": [
+                        "/images/turmeric1.jpg",
+                        "/images/turmeric2.jpg"
+                    ]
+                },
+                "description": "Our bright golden turmeric is organically cultivated and sun-dried to preserve its potent curcumin content. Known for its earthy flavor and health-promoting properties, turmeric is a cornerstone in culinary, cosmetic, and nutraceutical industries. It’s used in curries, beverages, dietary supplements, and as a natural coloring agent. Our turmeric is finely ground and processed under food-safety-certified conditions to maintain purity and vibrancy.",
+                "origin": [
+                    "Kenya",
+                    "India"
+                ],
+                "metrics": {
+                    "Moisture": "< 10%",
+                    "Curcumin content": "4–5%",
+                    "Purity": "99%",
+                    "ShelfLife": "24 months"
+                },
+                "desc": {
+                    "Description": "Whole and ground turmeric powder",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, India",
+                    "Latin name": "Curcuma longa"
+                },
+                "applications": [
+                    "Culinary spice and seasoning",
+                    "Health supplements",
+                    "Natural dye and colorant",
+                    "Cosmetics and skincare"
+                ],
+                "supply": {
+                    "capacity": "700 MT/month",
+                    "packaging": [
+                        "25kg kraft paper bags",
+                        "50kg woven sacks",
+                        "Bulk export containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "1400 kJ",
+                    "Energy (kcal)": "330 kcal",
+                    "Fat": "3 g",
+                    "Protein": "9 g",
+                    "Carbohydrates": "65 g",
+                    "Fibre": "23 g"
+                },
+                "features": [
+                    "High curcumin content (4–5%) for therapeutic quality",
+                    "Natural antioxidant and anti-inflammatory agent",
+                    "Bright golden-yellow color ideal for seasoning and dyes",
+                    "Organically grown and sun-dried for purity"
+                ],
+                "tags": [
+                    "Turmeric",
+                    "Curcumin",
+                    "Natural colorant"
+                ]
+            },
+            {
+                "name": "Cinnamon",
+                "slug": "cinnamon",
+                "image": "/images/cinnamon1.jpg",
+                "images": {
+                    "main": "/images/cinnamon1.jpg",
+                    "gallery": [
+                        "/images/cinnamon1.jpg",
+                        "/images/cinnamon2.jpg"
+                    ]
+                },
+                "description": "Our premium cinnamon is derived from the inner bark of organically cultivated Cinnamomum trees. It has a warm, sweet aroma and flavor that is essential in bakery, confectionery, and beverage applications. Cinnamon is known for its high cinnamaldehyde content, which gives it both its distinctive fragrance and health-promoting qualities. It is available as whole quills or finely ground powder, ideal for culinary and pharmaceutical use.",
+                "origin": [
+                    "Kenya",
+                    "Sri Lanka"
+                ],
+                "metrics": {
+                    "Moisture": "< 12%",
+                    "Cinnamaldehyde": "60–75%",
+                    "Purity": "99%",
+                    "ShelfLife": "24 months"
+                },
+                "desc": {
+                    "Description": "Whole and ground cinnamon (Ceylon and cassia varieties)",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Sri Lanka",
+                    "Latin name": "Cinnamomum verum"
+                },
+                "applications": [
+                    "Baking and desserts",
+                    "Beverages and tea blends",
+                    "Health supplements",
+                    "Pharmaceutical extracts"
+                ],
+                "supply": {
+                    "capacity": "400 MT/month",
+                    "packaging": [
+                        "25kg cartons",
+                        "50kg woven bags",
+                        "Bulk export containers"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "1100 kJ",
+                    "Energy (kcal)": "260 kcal",
+                    "Fat": "1 g",
+                    "Protein": "4 g",
+                    "Carbohydrates": "80 g",
+                    "Fibre": "53 g"
+                },
+                "features": [
+                    "High essential oil content for strong aroma",
+                    "Sustainably harvested and sun-dried",
+                    "Used in both culinary and medicinal applications",
+                    "Available in Ceylon and Cassia grades"
+                ],
+                "tags": [
+                    "Cinnamon",
+                    "Spice",
+                    "Ceylon"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Fruits & Vegetables",
+        "slug": "fruits-vegetables",
+        "subProducts": [
+            {
+                "name": "Mangoes (Dried & Fresh)",
+                "slug": "mangoes",
+                "image": "/images/mango1.jpg",
+                "images": {
+                    "main": "/images/mango1.jpg",
+                    "gallery": [
+                        "/images/mango1.jpg",
+                        "/images/mango2.jpg"
+                    ]
+                },
+                "description": "Our mangoes are harvested from Kenya’s fertile tropical regions and processed into both fresh and dried forms. The dried mango slices retain the fruit’s natural sweetness and tangy flavor, produced using solar and mechanical dehydration techniques that preserve nutrients and color. Fresh mangoes are handpicked at optimal ripeness to ensure juiciness and rich aroma. Rich in vitamin C, fiber, and antioxidants, our mangoes are ideal for snacks, juices, desserts, and export-grade retail packaging.",
+                "origin": [
+                    "Kenya",
+                    "Uganda"
+                ],
+                "metrics": {
+                    "Moisture (dried)": "< 12%",
+                    "Brix": "65–70°",
+                    "ShelfLife": "12–18 months (dried), 14 days (fresh)"
+                },
+                "desc": {
+                    "Description": "Fresh and dried mango slices",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Uganda",
+                    "Latin name": "Mangifera indica"
+                },
+                "applications": [
+                    "Snacks and confectionery",
+                    "Juices and smoothies",
+                    "Desserts and baked goods",
+                    "Retail and export packaging"
+                ],
+                "supply": {
+                    "capacity": "400 MT/month",
+                    "packaging": [
+                        "5kg cartons (fresh)",
+                        "250g–1kg pouches (dried)",
+                        "Bulk export bags"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "1370 kJ",
+                    "Energy (kcal)": "325 kcal",
+                    "Carbohydrates": "80 g",
+                    "Sugars": "70 g",
+                    "Protein": "2 g",
+                    "Fibre": "6 g",
+                    "Fat": "1 g"
+                },
+                "features": [
+                    "Naturally sweet and aromatic tropical fruit",
+                    "No added sugars or preservatives (dried form)",
+                    "High in vitamin C and beta-carotene",
+                    "Available fresh and dried for diverse markets"
+                ],
+                "tags": [
+                    "Mango",
+                    "Dried fruit",
+                    "Tropical export"
+                ]
+            },
+            {
+                "name": "Avocado (Hass & Fuerte)",
+                "slug": "avocado",
+                "image": "/images/avocado1.jpg",
+                "images": {
+                    "main": "/images/avocado1.jpg",
+                    "gallery": [
+                        "/images/avocado1.jpg",
+                        "/images/avocado2.jpg"
+                    ]
+                },
+                "description": "Our premium Hass and Fuerte avocados are grown in Kenya’s highlands under ideal climatic conditions, resulting in rich, creamy, and nutrient-dense fruits. Each avocado is carefully graded, washed, and packed for both domestic and international markets. Kenya’s year-round production ensures consistent supply. Avocados are naturally high in monounsaturated fats, potassium, and vitamins E and K — making them a global favorite for health-conscious consumers.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "Oil content": "16–24%",
+                    "Size range": "150–400g",
+                    "ShelfLife": "28 days (fresh)"
+                },
+                "desc": {
+                    "Description": "Fresh Hass and Fuerte avocados",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya",
+                    "Latin name": "Persea americana"
+                },
+                "applications": [
+                    "Fresh consumption",
+                    "Guacamole and salads",
+                    "Oil extraction",
+                    "Cosmetic products"
+                ],
+                "supply": {
+                    "capacity": "1000 MT/month",
+                    "packaging": [
+                        "4kg cartons",
+                        "10kg export trays"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "670 kJ",
+                    "Energy (kcal)": "160 kcal",
+                    "Fat": "15 g",
+                    "Carbohydrates": "9 g",
+                    "Protein": "2 g",
+                    "Fibre": "7 g"
+                },
+                "features": [
+                    "High oil content and creamy texture",
+                    "Ideal for fresh export and processing",
+                    "Grown in certified smallholder farms",
+                    "Available year-round from Kenya"
+                ],
+                "tags": [
+                    "Avocado",
+                    "Hass",
+                    "Fuerte"
+                ]
+            },
+            {
+                "name": "Pineapples",
+                "slug": "pineapples",
+                "image": "/images/pineapple1.jpg",
+                "images": {
+                    "main": "/images/pineapple1.jpg",
+                    "gallery": [
+                        "/images/pineapple1.jpg",
+                        "/images/pineapple2.jpg"
+                    ]
+                },
+                "description": "Our pineapples are grown in the volcanic soils of Kenya’s central and coastal regions, resulting in a juicy, golden-yellow fruit with high sugar content and low acidity. We supply both fresh pineapples and dried pineapple rings for retail and industrial applications. Pineapples are rich in vitamin C, manganese, and bromelain, making them both a flavorful and health-boosting tropical delicacy. The fruits are carefully graded, peeled, and packaged under strict quality control for export.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "Brix": "14–18°",
+                    "Moisture (dried)": "< 10%",
+                    "ShelfLife": "14 days (fresh), 12 months (dried)"
+                },
+                "desc": {
+                    "Description": "Fresh and dried pineapple rings",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya",
+                    "Latin name": "Ananas comosus"
+                },
+                "applications": [
+                    "Fresh fruit exports",
+                    "Juices and concentrates",
+                    "Snacks and desserts",
+                    "Culinary processing"
+                ],
+                "supply": {
+                    "capacity": "700 MT/month",
+                    "packaging": [
+                        "10kg cartons (fresh)",
+                        "250g–1kg pouches (dried)"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "200 kJ",
+                    "Energy (kcal)": "48 kcal",
+                    "Carbohydrates": "13 g",
+                    "Sugars": "10 g",
+                    "Protein": "0.5 g",
+                    "Fibre": "1.4 g"
+                },
+                "features": [
+                    "Naturally sweet and aromatic flavor",
+                    "Ideal for fresh export or drying",
+                    "High vitamin C and enzyme content",
+                    "Harvested and packed at peak ripeness"
+                ],
+                "tags": [
+                    "Pineapple",
+                    "Tropical fruit",
+                    "Dried fruit"
+                ]
+            },
+            {
+                "name": "Green Beans (French Beans)",
+                "slug": "green-beans",
+                "image": "/images/french1.jpg",
+                "images": {
+                    "main": "/images/french1.jpg",
+                    "gallery": [
+                        "/images/french1.jpg",
+                        "/images/french2.jpg"
+                    ]
+                },
+                "description": "Our export-grade French beans are grown by smallholder farmers under GlobalG.A.P. certification standards. They are hand-harvested, sorted, and packed for export to European and Middle Eastern markets. The beans are slender, tender, and rich in vitamins A and C. We ensure cold-chain integrity from farm to destination, preserving freshness, flavor, and nutritional value.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "Length": "12–16 cm",
+                    "Moisture": "85–90%",
+                    "ShelfLife": "10–14 days (fresh)"
+                },
+                "desc": {
+                    "Description": "Fresh export-grade French beans",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya",
+                    "Latin name": "Phaseolus vulgaris"
+                },
+                "applications": [
+                    "Fresh export markets",
+                    "Food processing",
+                    "Catering and retail"
+                ],
+                "supply": {
+                    "capacity": "500 MT/month",
+                    "packaging": [
+                        "5kg cartons",
+                        "Retail 500g trays"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "130 kJ",
+                    "Energy (kcal)": "31 kcal",
+                    "Carbohydrates": "7 g",
+                    "Protein": "2 g",
+                    "Fibre": "3 g"
+                },
+                "features": [
+                    "Crisp texture and uniform green color",
+                    "GlobalG.A.P.-certified farms",
+                    "Maintained under cold chain for optimal freshness",
+                    "Ideal for retail and catering markets"
+                ],
+                "tags": [
+                    "French beans",
+                    "Vegetables",
+                    "Fresh produce"
+                ]
+            },
+            {
+                "name": "Chillies",
+                "slug": "chillies",
+                "image": "/images/chillies1.jpg",
+                "images": {
+                    "main": "/images/chillies1.jpg",
+                    "gallery": [
+                        "/images/chillies1.jpg",
+                        "/images/chillies2.jpg"
+                    ]
+                },
+                "description": "We supply a range of fresh and dried chillies including Bird’s Eye, Cayenne, and Green Chillies. Cultivated in Kenya’s arid and semi-arid regions, they offer intense heat and strong aroma. Our chillies are carefully sorted, graded, and sun-dried for export. Capsaicin-rich and full of antioxidants, they are used in sauces, spice blends, and processed foods globally.",
+                "origin": [
+                    "Kenya",
+                    "Tanzania"
+                ],
+                "metrics": {
+                    "Scoville heat units": "30,000–100,000 SHU",
+                    "Moisture (dried)": "< 10%",
+                    "ShelfLife": "18–24 months"
+                },
+                "desc": {
+                    "Description": "Fresh and dried red chillies",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya, Tanzania",
+                    "Latin name": "Capsicum frutescens"
+                },
+                "applications": [
+                    "Spice blends and sauces",
+                    "Food processing",
+                    "Hot snacks and seasonings",
+                    "Pickles and marinades"
+                ],
+                "supply": {
+                    "capacity": "600 MT/month",
+                    "packaging": [
+                        "25kg bags",
+                        "Bulk export sacks"
+                    ]
+                },
+                "specifics": {
+                    "Energy (kJ)": "1400 kJ",
+                    "Energy (kcal)": "330 kcal",
+                    "Carbohydrates": "70 g",
+                    "Protein": "12 g",
+                    "Fat": "5 g",
+                    "Fibre": "26 g"
+                },
+                "features": [
+                    "Wide range of heat levels and varieties",
+                    "High capsaicin and antioxidant content",
+                    "Sun-dried for enhanced color and flavor",
+                    "Ideal for industrial and culinary applications"
+                ],
+                "tags": [
+                    "Chillies",
+                    "Spice",
+                    "Capsicum"
                 ]
             }
         ]

@@ -5,9 +5,9 @@ import { HandFist, Microscope, ShieldCheck, Truck } from 'lucide-react'
 const Services = () => {
     return (
         <div className='bg-white px-[40px] py-[60px]'>
-            <h1 className='font-bold text-7xl text-[#039be6] uppercase mb-[20px]'>Services</h1>
+            <h1 className='font-bold sm:text-7xl text-3xl text-[#039be6] uppercase mb-[20px]'>Services</h1>
             <p className='text-gray-500'>At the heart of our operations lies a commitment to excellence, efficiency, and ethical partnerships. From product conception to final delivery, we ensure seamless coordination across every stage of the supply chain.</p>
-            <div className='grid grid-cols-2 gap-4 mt-[40px] mb-[20px]'>
+            <div className='sm:grid sm:grid-cols-2 flex flex-col gap-4 mt-[40px] mb-[20px]'>
                 <div className='flex flex-col gap-3 border border-gray-200 rounded-md p-3 bg-white shadow-lg'>
                     <div className='w-[50px] h-[50px] rounded-full border border-gray-200 flex items-center justify-center'>
                         <Microscope color='#039be6' />
@@ -79,8 +79,8 @@ const Services = () => {
                 </div>
             </div>
             <div className='flex flex-col gap-3'>
-                <h1 className='font-bold text-[#039be6] text-2xl'>Our Commitment</h1>
-                <div className='grid grid-cols-4 gap-4'>
+                <h1 className='font-bold text-[#039be6] sm:text-2xl text-xl'>Our Commitment</h1>
+                <div className='sm:grid sm:grid-cols-4 flex flex-col gap-4'>
                     <div className='flex flex-col items-center justify-center gap-2'>
                         <div className='w-[50px] h-[50px] rounded-full border border-gray-200 flex items-center justify-center'>
                             <h1 className='font-bold text-xl text-[#039be6]'>1</h1>

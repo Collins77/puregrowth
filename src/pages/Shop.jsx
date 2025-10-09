@@ -74,9 +74,9 @@ const Shop = () => {
                 </div>
             </div>
 
-            <div className='flex gap-4'>
+            <div className='sm:flex gap-4'>
                 {/* Filters */}
-                <div className='bg-white shadow-md p-4 w-[20%] h-fit'>
+                <div className='bg-white shadow-md p-4 sm:w-[20%] h-fit'>
                     <h1 className='font-bold mb-[20px]'>Categories</h1>
                     <ul className='flex flex-col gap-4'>
                         {/* All button */}

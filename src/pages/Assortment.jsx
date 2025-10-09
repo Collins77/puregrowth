@@ -8,7 +8,7 @@ const Assortment = () => {
 
     return (
         <div className="bg-white px-[40px] py-[60px]">
-            <div className="flex items-center justify-center gap-8 mt-8">
+            <div className="flex sm:flex-row flex-col  items-center justify-center gap-8 mt-8">
                 <a
                     href="/assortment/ingredients"
                     onClick={(e) => {

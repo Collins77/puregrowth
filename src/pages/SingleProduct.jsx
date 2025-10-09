@@ -38,7 +38,7 @@ const SingleProduct = () => {
     }
 
     return (
-        <div className="px-[40px] py-[40px]">
+        <div className="sm:px-[40px] py-[40px]">
             <div className="flex items-center gap-8 text-[12px]">
                 <Link to={'shop'} className="flex gap-1 text-blue-500 underline items-center">
                     <ArrowLeft size={20} />

@@ -5,8 +5,8 @@ import productsData from '../db/products.json';
 const Ingredients = () => {
   return (
     <div className='px-[40px] py-[60px] bg-white'>
-      <h1 className='font-bold text-7xl text-[#039be6] uppercase mb-[40px]'>Food Ingredients</h1>
-      <div className='grid grid-cols-4 gap-6'>
+      <h1 className='font-bold sm:text-7xl text-3xl text-[#039be6] uppercase mb-[40px]'>Food Ingredients</h1>
+      <div className='sm:grid sm:grid-cols-4 flex flex-col gap-6'>
         {productsData.map((category) => (
           <Link
             key={category.slug}
@@ -15,9 +15,9 @@ const Ingredients = () => {
           >
             <div className='h-[200px] w-[200px] rounded-full border border-[#039be6] flex items-center justify-center bg-[#f5f5f5]'>
               {/* Optionally, you can use the first product image as category image */}
-              {category.subProducts[0]?.images?.[0] ? (
+              {category.subProducts[0]?.images?.main ? (
                 <img
-                  src={category.subProducts[0].images[0]}
+                  src={category.subProducts[0].images.main}
                   alt={category.category}
                   className='h-full w-full object-cover rounded-full'
                 />

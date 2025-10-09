@@ -99,8 +99,6 @@ const CategoryPage = () => {
                     </button>
                 </div>
             </div>
-
-            <Footer />
         </div>
     )
 }
