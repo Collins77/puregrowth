@@ -22,7 +22,7 @@ const Navbar = () => {
       name: 'OUR QUALITY', 
       path: '/quality', 
       dropdown: [
-        { name: 'Certifications', path: '/quality/certifications' },
+        // { name: 'Certifications', path: '/quality/certifications' },
         { name: 'Services', path: '/quality/services' }
       ] 
     },

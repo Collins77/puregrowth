@@ -7,7 +7,6 @@ const Contact = () => {
         <div className='flex sm:flex-row flex-col gap-4'>
             <div className='sm:w-[50%]'>
                 <h1 className='font-bold text-[#039be6] sm:text-xl mb-4'>Puregrowth Agribusiness Limited office & warehouse</h1>
-                <p className='sm:text-lg text-gray-500'>Times Tower</p>
                 <p className='sm:text-lg text-gray-500'>Ngong Road</p>
                 <p className='sm:text-lg text-gray-500 mb-2'>Nairobi, Kenya</p>
                 <p className='sm:text-lg text-gray-500'>+254754153083</p>

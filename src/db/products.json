@@ -406,7 +406,7 @@
                         "/images/kenya aa 2.jpg"
                     ]
                 },
-                "description": "Kenya AA Coffee represents the highest grade of Arabica coffee cultivated in Kenya, grown at altitudes of 1,400 to 2,000 meters above sea level. These high elevations and rich volcanic soils create the perfect environment for developing complex flavors. The beans are large, dense, and uniform, characterized by their vibrant acidity, full body, and intense aroma. The cup profile features bright citrus and berry notes, with hints of black currant and wine-like undertones — a hallmark of Kenya’s globally celebrated coffee. Each bean undergoes meticulous hand-picking, wet-processing, and sun-drying before export, ensuring unmatched consistency and quality.",
+                "description": "Kenya AA Coffee represents the highest grade of Arabica beans cultivated in Kenya, grown at elevations between 1,400 and 2,000 meters above sea level on rich volcanic soils. The beans are large, dense, and uniform, with exceptional flavor clarity. AA coffee is globally acclaimed for its full body, bright citrus acidity, and complex aroma featuring notes of black currant, berry, and wine-like undertones. Each lot is carefully hand-picked, fully washed, and sun-dried on raised beds to preserve its unique flavor characteristics. Kenya AA sets the global benchmark for specialty Arabica coffee quality.",
                 "origin": [
                     "Kenya"
                 ],
@@ -417,9 +417,9 @@
                     "shelfLife": "18 months"
                 },
                 "desc": {
-                    "Country of last processing": "KENYA ",
-                    "Agricultural origin": "KENYA",
-                    "Latin name": "Helianthus annuus"
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya",
+                    "Latin name": "Coffea arabica"
                 },
                 "applications": [
                     "Specialty coffee roasting",
@@ -435,25 +435,19 @@
                     ]
                 },
                 "specifics": {
-                    "Energy (kJ)": "3760 kJ",
-                    "Energy (kcal)": "900 kcal",
-                    "of which saturated": "100 g",
-                    "Fat": "9 g",
-                    "Carbohydrates": "0 g",
-                    "of which sugars": "0 g",
-                    "Protein": "0 g",
-                    "Dietary fibre ": "0 g",
-                    "Salt": "0 g"
+                    "Flavor Profile": "Bright acidity, winey notes, full body, fruity aroma",
+                    "Roast Recommendation": "Medium to medium-dark",
+                    "Processing": "Fully washed, sun-dried"
                 },
                 "features": [
-                    "World-renowned specialty-grade Arabica coffee",
-                    "Distinctively bright, fruity, and wine-like flavor profile",
-                    "Sourced from high-altitude Kenyan estates",
-                    "Graded and certified through the Nairobi Coffee Exchange"
+                    "Top-grade Arabica with exceptional flavor complexity",
+                    "Hand-picked and washed using traditional Kenyan process",
+                    "High-altitude cultivation enhances sweetness and acidity",
+                    "Globally recognized as a specialty coffee standard"
                 ],
                 "tags": [
                     "Arabica coffee",
-                    "Kenyan origin",
+                    "Kenya AA",
                     "Specialty grade"
                 ]
             },
@@ -468,7 +462,7 @@
                         "/images/AB2.jpg"
                     ]
                 },
-                "description": "Kenya AB Coffee is a balanced, high-quality Arabica grade made up of slightly smaller beans than AA. It combines the A and B bean grades, offering a smooth and consistent flavor. Known for its balanced acidity, medium body, and sweet fruity notes, it is one of the most commercially available Kenyan coffee grades. It captures the essence of Kenyan coffee with berry-like sweetness, pleasant floral notes, and a crisp, clean finish. Approximately 40% of Kenya’s total coffee production falls under the AB category, making it the preferred choice for both single-origin and blend roasters worldwide.",
+                "description": "Kenya AB Coffee is a blend of A and B bean grades, slightly smaller than AA but maintaining outstanding quality. It offers a balanced flavor with moderate acidity, medium body, and pronounced sweetness. The cup features fruity and floral notes with a smooth, clean finish. Representing about 40% of Kenya’s coffee exports, the AB grade is favored by international roasters for its consistency, affordability, and versatility in blending and single-origin offerings.",
                 "origin": [
                     "Kenya"
                 ],
@@ -479,9 +473,9 @@
                     "shelfLife": "18 months"
                 },
                 "desc": {
-                    "Country of last processing": "KENYA ",
-                    "Agricultural origin": "KENYA",
-                    "Latin name": "Helianthus annuus"
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya",
+                    "Latin name": "Coffea arabica"
                 },
                 "applications": [
                     "Filter coffee",
@@ -497,25 +491,19 @@
                     ]
                 },
                 "specifics": {
-                    "Energy (kJ)": "3760 kJ",
-                    "Energy (kcal)": "900 kcal",
-                    "of which saturated": "100 g",
-                    "Fat": "9 g",
-                    "Carbohydrates": "0 g",
-                    "of which sugars": "0 g",
-                    "Protein": "0 g",
-                    "Dietary fibre ": "0 g",
-                    "Salt": "0 g"
+                    "Flavor Profile": "Balanced sweetness, mild acidity, smooth body",
+                    "Roast Recommendation": "Medium",
+                    "Processing": "Fully washed, sun-dried"
                 },
                 "features": [
-                    "Medium-bodied with bright flavor and clean finish",
-                    "Balanced sweetness and acidity for diverse brewing styles",
-                    "Most widely available export grade in Kenya",
-                    "Ideal for premium blends and specialty coffee markets"
+                    "Excellent balance of flavor and body",
+                    "Most widely traded Kenyan coffee grade",
+                    "Ideal for blends and single-origin profiles",
+                    "Steady export availability"
                 ],
                 "tags": [
-                    "Arabica coffee",
                     "Kenya AB",
+                    "Arabica coffee",
                     "Premium coffee"
                 ]
             },
@@ -530,7 +518,7 @@
                         "/images/peaberry.jpg"
                     ]
                 },
-                "description": "Kenya Peaberry Coffee (PB) is a rare and naturally occurring coffee mutation where only one rounded bean grows inside the coffee cherry instead of two. This unique formation allows the bean to roast more evenly, producing an intense and concentrated flavor. With its rich body, complex aroma, and sweet berry and citrus notes, Kenya PB offers an exceptional cup experience. Representing only about 5% of Kenya’s total coffee production, this grade is highly sought after by specialty roasters around the world for its full-bodied character and vibrant acidity.",
+                "description": "Kenya PB (Peaberry) Coffee consists of rare, single-seed beans that develop when only one seed forms inside the cherry instead of two. These small, round beans roast evenly and produce a more concentrated, aromatic flavor. Known for their pronounced acidity, full body, and fruit-forward notes of citrus and black currant, Peaberry coffees deliver a bold, clean, and vibrant cup. They represent about 5% of Kenya’s total coffee yield, making them highly prized among specialty roasters.",
                 "origin": [
                     "Kenya"
                 ],
@@ -541,12 +529,12 @@
                     "shelfLife": "18 months"
                 },
                 "desc": {
-                    "Country of last processing": "KENYA ",
-                    "Agricultural origin": "KENYA",
-                    "Latin name": "Helianthus annuus"
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya",
+                    "Latin name": "Coffea arabica"
                 },
                 "applications": [
-                    "Specialty single-origin roasting",
+                    "Single-origin roasting",
                     "Espresso",
                     "Pour-over coffee"
                 ],
@@ -557,26 +545,203 @@
                     ]
                 },
                 "specifics": {
-                    "Energy (kJ)": "3760 kJ",
-                    "Energy (kcal)": "900 kcal",
-                    "of which saturated": "100 g",
-                    "Fat": "9 g",
-                    "Carbohydrates": "0 g",
-                    "of which sugars": "0 g",
-                    "Protein": "0 g",
-                    "Dietary fibre ": "0 g",
-                    "Salt": "0 g"
+                    "Flavor Profile": "Citrus brightness, sweet berry notes, full body",
+                    "Roast Recommendation": "Medium-light",
+                    "Processing": "Washed, hand-sorted"
                 },
                 "features": [
-                    "Unique single-bean (peaberry) structure enhances uniform roasting",
-                    "Complex flavor intensity and balanced sweetness",
-                    "Rare specialty coffee representing only 5% of Kenya’s crop",
-                    "Sourced from high-altitude Arabica farms"
+                    "Rare single-bean formation for concentrated flavor",
+                    "Vibrant acidity and fruity complexity",
+                    "Favored in specialty markets worldwide",
+                    "Limited annual yield (5% of Kenya’s crop)"
                 ],
                 "tags": [
                     "Peaberry",
                     "Specialty coffee",
                     "Kenya PB"
+                ]
+            },
+            {
+                "name": "Kenya C Coffee",
+                "slug": "kenya-c",
+                "image": "/images/c1.jpg",
+                "images": {
+                    "main": "/images/c1.jpg",
+                    "gallery": [
+                        "/images/c1.jpg",
+                        "/images/c2.jpg"
+                    ]
+                },
+                "description": "Kenya C Coffee is composed of smaller Arabica beans that retain the same washed processing and vibrant flavor profile as the higher grades. While slightly lighter in body, it maintains pleasant acidity and sweet, nutty undertones. C grade coffees are often used in blends or as affordable single-origin options where consistency and mild flavor are desired. Despite its smaller size, Kenya C coffee upholds the quality and aroma that define Kenyan Arabicas.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "screenSize": "15–16",
+                    "moisture": "< 12%",
+                    "altitude": "1,300–1,700 meters",
+                    "shelfLife": "18 months"
+                },
+                "applications": [
+                    "Instant coffee production",
+                    "Blends",
+                    "Drip brewing"
+                ],
+                "supply": {
+                    "capacity": "250 MT/month",
+                    "packaging": [
+                        "60kg jute bags"
+                    ]
+                },
+                "features": [
+                    "Smaller beans with consistent flavor",
+                    "Balanced sweetness and smooth texture",
+                    "Ideal for blending and soluble coffee applications"
+                ],
+                "tags": [
+                    "Kenya C",
+                    "Arabica",
+                    "Commercial coffee"
+                ]
+            },
+            {
+                "name": "Kenya E (Elephant) Coffee",
+                "slug": "kenya-e",
+                "image": "/images/e1.jpg",
+                "images": {
+                    "main": "/images/e1.jpg",
+                    "gallery": [
+                        "/images/e1.jpg",
+                        "/images/e2.jpg"
+                    ]
+                },
+                "description": "Kenya E (Elephant) Coffee features exceptionally large beans formed by the natural fusion of two coffee seeds within a single cherry. These rare, oversized beans produce a mild yet full-bodied cup with subtle floral and chocolate undertones. Due to their unique size, they require careful roasting to achieve even heat distribution. Elephant beans are typically roasted for premium niche markets and specialty blends, offering a distinct flavor profile not found in standard grades.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "screenSize": "> 19 (8.0mm)",
+                    "moisture": "< 12%",
+                    "altitude": "1,400–1,800 meters"
+                },
+                "applications": [
+                    "Specialty blends",
+                    "Gourmet roasting"
+                ],
+                "features": [
+                    "Rare oversized 'elephant' beans",
+                    "Smooth and mild flavor profile",
+                    "Limited production and export quantity"
+                ],
+                "tags": [
+                    "Kenya E",
+                    "Elephant beans",
+                    "Specialty grade"
+                ]
+            },
+            {
+                "name": "Kenya TT Coffee",
+                "slug": "kenya-tt",
+                "image": "/images/tt1.jpg",
+                "images": {
+                    "main": "/images/tt1.jpg",
+                    "gallery": [
+                        "/images/tt1.jpg",
+                        "/images/tt2.jpg"
+                    ]
+                },
+                "description": "Kenya TT Coffee consists of smaller, lighter beans separated during the grading process from AA, AB, and PB lots. Despite their size, TT beans retain a pleasant aroma and medium acidity, offering a well-rounded cup. TT grade is commonly used for instant coffee production and commercial blends. It provides a cost-effective alternative while preserving the authentic Kenyan coffee character.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "screenSize": "Below 14",
+                    "moisture": "< 12%",
+                    "shelfLife": "18 months"
+                },
+                "applications": [
+                    "Instant coffee",
+                    "Commercial blends",
+                    "Filter coffee"
+                ],
+                "features": [
+                    "Smaller bean size with smooth flavor",
+                    "Affordable grade retaining Kenyan profile",
+                    "Ideal for mass-market blends"
+                ],
+                "tags": [
+                    "Kenya TT",
+                    "Arabica",
+                    "Commercial coffee"
+                ]
+            },
+            {
+                "name": "Kenya T Coffee",
+                "slug": "kenya-t",
+                "image": "/images/tt1.jpg",
+                "images": {
+                    "main": "/images/tt1.jpg",
+                    "gallery": [
+                        "/images/tt1.jpg",
+                        "/images/tt2.jpeg"
+                    ]
+                },
+                "description": "Kenya T Coffee comprises the thinnest and smallest fragments obtained from the milling process. Although it has a lighter body and milder taste, it is valuable for blending and soluble coffee manufacturing. T grade beans undergo the same washing and drying processes as higher grades, maintaining Kenya’s signature brightness and aroma at a lower cost.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "screenSize": "< 14",
+                    "moisture": "< 12%"
+                },
+                "applications": [
+                    "Soluble coffee",
+                    "Mass-market blends"
+                ],
+                "features": [
+                    "Fine-grade Arabica particles",
+                    "Suitable for instant and commercial blends"
+                ],
+                "tags": [
+                    "Kenya T",
+                    "Soluble coffee",
+                    "Blending grade"
+                ]
+            },
+            {
+                "name": "Kenya MH/ML (Mbuni) Coffee",
+                "slug": "kenya-mbuni",
+                "image": "/images/mbuni1.jpeg",
+                "images": {
+                    "main": "/images/mbuni1.jpeg",
+                    "gallery": [
+                        "/images/mbuni1.jpeg",
+                        "/images/mbuni2.jpg"
+                    ]
+                },
+                "description": "Kenya MH/ML, commonly known as Mbuni coffee, is a naturally processed (unwashed) grade made from cherries dried whole under the sun. It offers a heavy body, rustic flavor, and less acidity compared to washed grades. The cup profile is earthy with notes of dark chocolate and dried fruit. Widely used in espresso blends and instant coffee production, Mbuni represents Kenya’s traditional dry-processing method, especially prevalent in arid growing regions.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "processing": "Natural (dry process)",
+                    "moisture": "< 12%",
+                    "altitude": "1,200–1,600 meters"
+                },
+                "applications": [
+                    "Espresso blends",
+                    "Instant coffee",
+                    "Traditional African coffee preparations"
+                ],
+                "features": [
+                    "Naturally processed for full, rustic flavor",
+                    "Lower acidity and higher body",
+                    "Traditional dry-processed Kenyan coffee"
+                ],
+                "tags": [
+                    "Kenya Mbuni",
+                    "Natural process",
+                    "Dry coffee"
                 ]
             },
             {
@@ -590,54 +755,30 @@
                         "/images/robusta2.jpg"
                     ]
                 },
-                "description": "Kenyan Robusta coffee is known for its strong flavor, deep body, and high caffeine content, making it a preferred component in espresso and instant coffee blends. Grown in lower-altitude regions under optimal tropical conditions, Robusta offers a bold taste profile with earthy, nutty, and cocoa notes. The beans have a natural resistance to pests and yield consistently high production volumes. Ideal for enhancing crema and texture in espresso blends, Robusta also forms the foundation for industrial and soluble coffee applications worldwide.",
+                "description": "Kenyan Robusta Coffee is grown in lower-altitude regions with tropical climates ideal for high-yield, pest-resistant coffee. Known for its strong flavor, thick crema, and high caffeine content (2–2.7%), Robusta is primarily used in espresso and instant coffee production. Its cup profile features bold earthy, nutty, and cocoa tones, delivering an intense taste and long-lasting finish. Kenyan Robusta meets international standards for industrial and blending applications.",
                 "origin": [
                     "Kenya",
                     "Uganda"
                 ],
                 "metrics": {
-                    "screenSize": "18/15/12",
-                    "moisture": "< 12%",
                     "caffeine": "2.0–2.7%",
+                    "moisture": "< 12%",
+                    "screenSize": "15–18",
                     "shelfLife": "24 months"
-                },
-                "desc": {
-                    "Country of last processing": "KENYA ",
-                    "Agricultural origin": "KENYA",
-                    "Latin name": "Helianthus annuus"
                 },
                 "applications": [
                     "Espresso blends",
                     "Instant coffee",
                     "Commercial coffee production"
                 ],
-                "supply": {
-                    "capacity": "300 MT/month",
-                    "packaging": [
-                        "60kg jute bags",
-                        "Bulk containers"
-                    ]
-                },
-                "specifics": {
-                    "Energy (kJ)": "3760 kJ",
-                    "Energy (kcal)": "900 kcal",
-                    "of which saturated": "100 g",
-                    "Fat": "9 g",
-                    "Carbohydrates": "0 g",
-                    "of which sugars": "0 g",
-                    "Protein": "0 g",
-                    "Dietary fibre ": "0 g",
-                    "Salt": "0 g"
-                },
                 "features": [
-                    "High caffeine content for strong flavor and crema",
-                    "Ideal for instant and espresso coffee formulations",
-                    "Durable and consistent supply from East Africa",
-                    "Preferred by commercial roasters for blending"
+                    "High caffeine for strong, full-bodied flavor",
+                    "Enhances crema in espresso blends",
+                    "Consistent East African quality supply"
                 ],
                 "tags": [
-                    "Robusta coffee",
-                    "Espresso blend",
+                    "Robusta",
+                    "Espresso",
                     "High caffeine"
                 ]
             }
@@ -1890,6 +2031,216 @@
                     "Chillies",
                     "Spice",
                     "Capsicum"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Fertilizer",
+        "slug": "fertilizer",
+        "subProducts": [
+            {
+                "name": "Urea (46% Nitrogen)",
+                "slug": "urea",
+                "image": "/images/urea1.jpg",
+                "images": {
+                    "main": "/images/urea1.jpg",
+                    "gallery": [
+                        "/images/urea1.jpg",
+                        "/images/urea2.jpg"
+                    ]
+                },
+                "description": "Our high-quality agricultural-grade Urea (46% N) is a highly concentrated nitrogen fertilizer used worldwide for crop nutrition and soil enrichment. It is produced from ammonia and carbon dioxide through a precision-controlled synthesis process that ensures maximum purity and granule uniformity. Urea contains 46% nitrogen, the highest nitrogen content among solid fertilizers, making it cost-effective and efficient in delivering essential nutrients to plants. It is suitable for all soil types and a wide variety of crops, including cereals, maize, rice, sugarcane, and horticultural plants. Urea can be used directly on soil or dissolved in water for foliar application. Its versatility extends to industrial applications, including melamine, resin, and adhesive manufacturing. Each batch undergoes strict quality control to ensure low moisture, high biuret stability, and consistent granule size for even distribution in the field.",
+                "origin": [
+                    "Kenya",
+                    "Saudi Arabia",
+                    "Qatar",
+                    "Egypt"
+                ],
+                "metrics": {
+                    "Nitrogen (N)": "46.0% min",
+                    "Biuret": "< 1.0%",
+                    "Moisture": "< 0.5%",
+                    "Granule Size": "2–4 mm (90% min)",
+                    "Melting Point": "132°C",
+                    "Bulk Density": "0.74–0.77 g/cm³",
+                    "Shelf Life": "24 months (dry storage)"
+                },
+                "desc": {
+                    "Description": "Agricultural Urea 46% Nitrogen",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Saudi Arabia / Egypt / Kenya",
+                    "Chemical Formula": "CO(NH₂)₂",
+                    "CAS Number": "57-13-6"
+                },
+                "applications": [
+                    "Crop fertilization (cereals, maize, rice, sugarcane, vegetables)",
+                    "Foliar feeding and fertigation systems",
+                    "Blending with other NPK fertilizers",
+                    "Industrial manufacturing (melamine, resins, adhesives)",
+                    "Livestock feed additive (technical-grade urea)"
+                ],
+                "supply": {
+                    "capacity": "2,000 MT/month",
+                    "packaging": [
+                        "50kg woven PP bags",
+                        "500kg jumbo bags",
+                        "Bulk shipment in containers"
+                    ]
+                },
+                "specifics": {
+                    "Appearance": "White crystalline or granular solid",
+                    "Odor": "Odorless",
+                    "Solubility": "Highly soluble in water",
+                    "pH (10% solution)": "7.0–7.5",
+                    "Handling Precautions": "Store in dry, well-ventilated conditions away from moisture and direct sunlight."
+                },
+                "features": [
+                    "Contains the highest nitrogen concentration among solid fertilizers (46%)",
+                    "Fast-acting nitrogen release supporting vigorous plant growth",
+                    "Compatible with all crops and soil types",
+                    "Uniform granule size ensures even spreading and minimal caking",
+                    "Also suitable for industrial and feed applications"
+                ],
+                "tags": [
+                    "Fertilizer",
+                    "Urea 46%",
+                    "Nitrogen source",
+                    "Agriculture",
+                    "Soil nutrition"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Hides & Skins",
+        "slug": "hides-skins",
+        "subProducts": [
+            {
+                "name": "Raw Hides and Skins",
+                "slug": "raw-hides",
+                "image": "/images/rawhides1.jpeg",
+                "images": {
+                    "main": "/images/rawhides1.jpeg",
+                    "gallery": [
+                        "/images/rawhides1.jpeg",
+                        "/images/rawhides2.jpg"
+                    ]
+                },
+                "description": "Our raw hides and skins are carefully sourced from healthy livestock across East Africa, primarily cattle, goats, and sheep reared under natural grazing conditions. The raw hides are freshly flayed, properly cured with natural salt, and preserved under hygienic conditions to maintain their natural strength, fiber density, and texture. We ensure that only defect-free hides, free from putrefaction, holes, and flay cuts, are selected for export. The raw hides and skins serve as premium raw materials for the global leather industry, suitable for processing into full-grain, corrected-grain, and split leather varieties used in footwear, upholstery, and fashion leather goods.",
+                "origin": [
+                    "Kenya",
+                    "Uganda",
+                    "Tanzania"
+                ],
+                "metrics": {
+                    "Moisture Content": "45–55% (wet-salted)",
+                    "Preservation": "Cured with 40–50% salt by weight",
+                    "Average Weight (Cattle Hide)": "25–35 kg",
+                    "Average Weight (Goat Skin)": "2–4 kg",
+                    "Average Weight (Sheep Skin)": "3–5 kg",
+                    "Shelf Life": "6–8 weeks (under cold, ventilated storage)"
+                },
+                "desc": {
+                    "Description": "Fresh raw hides and skins, salted and graded for export",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya / Uganda / Tanzania",
+                    "Animal Species": "Cattle, Goats, Sheep"
+                },
+                "applications": [
+                    "Tanning and leather production",
+                    "Footwear manufacturing",
+                    "Upholstery and automotive leather",
+                    "Leather accessories and garments"
+                ],
+                "supply": {
+                    "capacity": "300 MT/month",
+                    "packaging": [
+                        "Plastic sheets and pallets",
+                        "Refrigerated containers for export"
+                    ]
+                },
+                "specifics": {
+                    "Color": "Natural cream to light brown",
+                    "Texture": "Smooth grain, thick fibrous structure",
+                    "Odor": "Natural hide odor (no decomposition)",
+                    "Preservation Method": "Wet-salted or air-dried",
+                    "Storage Conditions": "Cool, shaded, and ventilated area"
+                },
+                "features": [
+                    "Sourced from traceable East African livestock",
+                    "Defect-free and properly preserved hides for tanning",
+                    "High tensile strength and uniform fiber structure",
+                    "Ideal for multiple leather grades and end-uses"
+                ],
+                "tags": [
+                    "Raw hides",
+                    "Cured skins",
+                    "Leather raw material",
+                    "East African origin"
+                ]
+            },
+            {
+                "name": "Wet Blue Hides",
+                "slug": "wet-blue",
+                "image": "/images/wetblue1.jpeg",
+                "images": {
+                    "main": "/images/wetblue1.jpeg",
+                    "gallery": [
+                        "/images/wetblue1.jpeg",
+                        "/images/wetblue2.jpg"
+                    ]
+                },
+                "description": "Our Wet Blue hides are semi-processed bovine and ovine hides tanned using high-grade chromium salts to preserve the collagen structure and prevent putrefaction. This tanning process stabilizes the protein fibers, resulting in flexible, durable hides with a characteristic blue coloration. Wet Blue hides are the global standard intermediate material in the leather value chain, ready for further processing into finished leather for upholstery, footwear, automotive interiors, and luxury leather goods. Each hide is tanned in compliance with international REACH and environmental standards, ensuring consistent quality, low chrome VI content, and eco-friendly processing.",
+                "origin": [
+                    "Kenya"
+                ],
+                "metrics": {
+                    "Chromium Oxide Content": "3.5–4.0%",
+                    "pH Value": "3.8–4.2",
+                    "Moisture Content": "55–65%",
+                    "Average Hide Weight": "20–35 kg",
+                    "Shrinkage Temperature": "≥ 100°C",
+                    "Shelf Life": "12 months (cool, ventilated storage)"
+                },
+                "desc": {
+                    "Description": "Wet-blue tanned hides, Grade A export standard",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya",
+                    "Tanning Agent": "Basic Chromium Sulfate",
+                    "Animal Species": "Cattle, Goat"
+                },
+                "applications": [
+                    "Finished leather production",
+                    "Footwear and handbags",
+                    "Automotive and furniture upholstery",
+                    "Industrial leather goods"
+                ],
+                "supply": {
+                    "capacity": "500 MT/month",
+                    "packaging": [
+                        "Palletized bundles wrapped in plastic film",
+                        "20ft or 40ft refrigerated containers"
+                    ]
+                },
+                "specifics": {
+                    "Appearance": "Pliable blue-tinted hides",
+                    "Odor": "Neutral, no putrefaction",
+                    "Surface": "Smooth, defect-free grain",
+                    "Tanning Type": "Chrome tanning",
+                    "Storage": "Cool and aerated storage, avoid sunlight"
+                },
+                "features": [
+                    "Internationally standardized Wet Blue (chrome-tanned) hides",
+                    "Compliant with REACH and international leather export norms",
+                    "Excellent tensile strength and flexibility",
+                    "Ideal intermediate for high-end leather manufacturing"
+                ],
+                "tags": [
+                    "Wet blue hides",
+                    "Leather tannery",
+                    "Chrome tanned",
+                    "Export quality"
                 ]
             }
         ]

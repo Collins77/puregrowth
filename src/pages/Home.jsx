@@ -10,8 +10,9 @@ import coffee from '../assets/coffee - Copy.jpg'
 import clove from '../assets/clove.jpg'
 import sesame from '../assets/sesame seed 1.png'
 import spice from '../assets/spices.jpg'
-import { ArrowRight, ChevronRight, MoveRight } from 'lucide-react'
+import { ArrowRight, Calendar, ChevronRight, ChevronsUp, CircleCheckBig, Link, MoveRight, ShoppingCart, ThumbsUp, UserCheck } from 'lucide-react'
 import { useNavigate } from 'react-router-dom'
+import bgImage from '../assets/bg.jpg'
 
 
 const Home = () => {
@@ -19,31 +20,53 @@ const Home = () => {
 
     return (
         <div>
-            <div className='h-[80vh] bg-white w-full flex justify-between px-[40px] py-[60px] relative'>
-                <div className='w-[100%] flex flex-col gap-4 justify-center items-center h-full'>
-                    <h1 className='sm:text-7xl text-3xl font-bold bg-linear-to-r from-emerald-500 via-teal-500 to-cyan-500 bg-clip-text text-transparent w-[80%] text-center'>
+            <div
+                className='relative w-full sm:h-[85vh] h-fit flex justify-between px-[40px] py-[60px] bg-cover bg-center bg-no-repeat'
+                style={{ backgroundImage: `url(${bgImage})`, backgroundPosition: 'center', backgroundSize: 'cover' }}
+            >
+                {/* Overlay for better text readability */}
+                <div className='absolute inset-0 bg-black/40'></div>
+
+                {/* Content */}
+                <div className='relative w-full flex flex-col gap-4 justify-center items-center h-full text-white z-10'>
+                    <h1 className='sm:text-7xl text-3xl font-bold bg-gradient-to-r from-emerald-400 via-teal-400 to-cyan-400 bg-clip-text text-transparent w-[80%] text-center'>
                         Your Trusted Sourcing Partner in Kenya
                     </h1>
-                    <p className='text-gray-500 text-sm text-center w-[60%]'>
-                        PUREGROWTH AGRIBUSINESS LIMITED is an established Sourcing and Trading company based in East Africa. We are here to bring you the best local products at the best price.
+                    <p className='text-gray-200 text-sm text-center w-[60%]'>
+                        PUREGROWTH AGRIBUSINESS LIMITED is an established Sourcing and Trading company based in East Africa.
+                        We are here to bring you the best local products at the best price.
                     </p>
-                    <div className='flex sm:flex-row flex-col items-center gap-3'>
-                        <button className='bg-[#039be6] px-2 py-1 rounded-md flex items-center gap-2 text-white hover:bg-transparent hover:text-black hover:border hover:border-[#039be6] duration-300 transition-all cursor-pointer font-semibold'>
+                    <div className='flex sm:flex-row flex-col items-center gap-3 mb-[30px]'>
+                        <button
+                            onClick={() => navigate('/what-we-do')}
+                            className='bg-[#039be6] px-4 py-2 rounded-md flex items-center gap-2 text-white hover:bg-transparent hover:text-white hover:border hover:border-[#039be6] duration-300 transition-all cursor-pointer font-semibold'
+                        >
                             LEARN MORE
                             <ChevronRight />
                         </button>
-                        <button className='bg-transparent px-2 py-1 rounded-md flex items-center gap-2 text-black hover:text-white border border-[#039be6] hover:bg-[#039be6] duration-300 transition-all cursor-pointer font-semibold'>
+                        <button
+                            onClick={() => navigate('/shop')}
+                            className='bg-transparent px-4 py-2 rounded-md flex items-center gap-2 text-white border border-[#039be6] hover:bg-[#039be6] duration-300 transition-all cursor-pointer font-semibold'
+                        >
                             PRODUCTS
                             <ChevronRight />
                         </button>
                     </div>
 
-                </div>
-                <div className='left-[100px] bottom-[50px] w-[200px] h-[200px] rounded-full border-2 border-[#039be6] sm:absolute hidden' style={{ backgroundImage: `url(${chilli})`, backgroundPosition: 'center', backgroundSize: 'cover' }}>
-                </div>
-                <div className='right-[400px] bottom-[30px] w-[100px] h-[100px] rounded-full border-2 border-[#039be6] sm:absolute hidden' style={{ backgroundImage: `url(${cere})`, backgroundPosition: 'center', backgroundSize: 'cover' }}>
-                </div>
-                <div className='right-[20px] bottom-[80px] w-[250px] h-[250px] rounded-full border-2 border-[#039be6] sm:absolute hidden' style={{ backgroundImage: `url(${oil})`, backgroundPosition: 'center', backgroundSize: 'cover' }}>
+                    <div className='sm:grid sm:grid-cols-3 flex flex-col gap-6'>
+                        <div className='flex flex-col gap-1 items-center bg-white/10 rounded-lg shadow p-2'>
+                            <ThumbsUp />
+                            <h1 className='font-bold text-lg'>Competitive Pricing</h1>
+                        </div>
+                        <div className='flex flex-col gap-1 items-center bg-white/10 rounded-lg shadow p-2'>
+                            <ShoppingCart />
+                            <h1 className='font-bold text-lg'>Wide Range of Products</h1>
+                        </div>
+                        <div className='flex flex-col gap-1 items-center bg-white/10 rounded-lg shadow p-2'>
+                            <CircleCheckBig />
+                            <h1 className='font-bold text-lg'>Quality Control</h1>
+                        </div>
+                    </div>
                 </div>
             </div>
             <div className='flex sm:flex-row flex-col gap-4 px-[40px] py-[60px] bg-[#039be6]/10'>
@@ -74,7 +97,7 @@ const Home = () => {
                             That is why 100% organic food is our standard
                         </li>
                         <li className='sm:text-xl font-bold flex items-center gap-2'>
-                            <ArrowRight className='sm:block hidden'/>
+                            <ArrowRight className='sm:block hidden' />
                             All our ingredients and products are certified and of the highest quality
                         </li>
                     </ul>
@@ -161,6 +184,44 @@ const Home = () => {
                     </a>
                 </div>
             </div>
+            <div className="bg-[#039be6]/5 px-[40px] py-[60px]">
+                <div className='mb-[30px]'>
+                    <h1 className="font-bold sm:text-4xl text-2xl text-[#039be6]">
+                        WHY CHOOSE US
+                    </h1>
+                </div>
+                <div className='sm:grid sm:grid-cols-3 flex flex-col sm:mb-[20px]'>
+                    <div className='bg-[#039be6] h-[200px] flex flex-col gap-2 justify-center items-center p-2'>
+                        <UserCheck color='white' size={30} />
+                        <h1 className='text-white font-bold text-lg'>Reliable Suppliers</h1>
+                        <p className='text-center text-white'>We only work with reliable suppliers with strong financial background and a complete manufacturing set-up, systems and controls</p>
+                    </div>
+                    <div className='bg-gray-100 h-[200px] flex flex-col gap-2 justify-center items-center p-2'>
+                        <Link color='black' size={30} />
+                        <h1 className=' font-bold text-lg'>Compliance</h1>
+                        <p className='text-center '>We ensure the factories comply with the social compliance and code of conduct laid down by our clients and us</p>
+                    </div>
+                    <div className='bg-[#039be6] h-[200px] flex flex-col gap-2 justify-center items-center p-2'>
+                        <Calendar color='white' size={30} />
+                        <h1 className='text-white font-bold text-lg'>Timeliness</h1>
+                        <p className='text-center text-white'>We ensure that our Products and Services meet our client expectation and always aim to ship goods as per agreed timelines</p>
+                    </div>
+                    
+                </div>
+                <div className='sm:grid sm:grid-cols-2 flex flex-col sm:px-[80px]'>
+                    <div className='bg-gray-100 h-[200px] flex flex-col gap-2 justify-center items-center p-2'>
+                        <ShoppingCart color='black' size={30} />
+                        <h1 className=' font-bold text-lg'>Best Source - Best Price</h1>
+                        <p className='text-center '>We will provide the best competitive pricing with the support of a wide range of sourcing/manufacturing partners</p>
+                    </div>
+                    <div className='bg-[#039be6] h-[200px] flex flex-col gap-2 justify-center items-center p-2'>
+                        <ChevronsUp color='white' size={30} />
+                        <h1 className='text-white font-bold text-lg'>Constant updates</h1>
+                        <p className='text-center text-white'>We will provide proactive updates through the entire life cycle of the order</p>
+                    </div>
+                    
+                </div>
+            </div>
             <div className='bg-[#039be6] px-[40px] py-[60px] flex sm:flex-row flex-col gap-4'>
                 <div className='sm:w-[40%]'>
                     <h1 className='text-white font-bold sm:text-4xl text-2xl'>SPECIALIST IN ORGANIC FOOD PRODUCTS</h1>
@@ -185,7 +246,7 @@ const Home = () => {
                 </div>
             </div>
             <div className='bg-white px-[40px] py-[60px] flex items-center justify-center'>
-                <h1 className='sm:text-6xl text-3xl font-bold w-[50%] text-[#039be6]'>We take action.
+                <h1 className='sm:text-6xl text-3xl font-bold sm:w-[50%] w-[80%] text-[#039be6]'>We take action.
                     Stand up. Connect.
                     Together with people like you we create a sustainable future. Together for our planet.</h1>
             </div>

@@ -43,8 +43,8 @@ const WhatWeDo = () => {
                         </div>
                         <div className=''>
                             <h1 className='font-bold text-center'>Improve</h1>
-                            <p className='text-[12px] text-gray-500 text-center'>We have a strong ambition to change the world’s agriculture towards organic farming and make a 
-sustainable impact. For our planet, for our health and for future generations.</p>
+                            <p className='text-[12px] text-gray-500 text-center'>We have a strong ambition to change the world’s agriculture towards organic farming and make a
+                                sustainable impact. For our planet, for our health and for future generations.</p>
                         </div>
                     </div>
                     <div className='flex flex-col gap-3 items-center'>

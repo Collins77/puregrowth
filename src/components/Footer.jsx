@@ -26,7 +26,7 @@ const Footer = () => {
                             <a href="assortment/ingredients" className='hover:text-green-400 duration-300 transition-all'>Food Ingredients</a>
                         </li>
                         <li className='text-white text-sm'>
-                            <a href="assortments/private-label" className='hover:text-green-400 duration-300 transition-all'>Private Label</a>
+                            <a href="assortment/private-label" className='hover:text-green-400 duration-300 transition-all'>Private Label</a>
                         </li>
                     </ul>
                 </div>
