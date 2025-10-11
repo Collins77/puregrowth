@@ -29,8 +29,8 @@ const Home = () => {
 
                 {/* Content */}
                 <div className='relative w-full flex flex-col gap-4 justify-center items-center h-full text-white z-10'>
-                    <h1 className='sm:text-7xl text-3xl font-bold bg-gradient-to-r from-emerald-400 via-teal-400 to-cyan-400 bg-clip-text text-transparent w-[80%] text-center'>
-                        Your Trusted Sourcing Partner in Kenya
+                    <h1 className='sm:text-7xl text-3xl font-bold bg-gradient-to-r from-emerald-400 via-teal-400 to-cyan-400 bg-clip-text text-transparent w-[100%] text-center'>
+                        Your Trusted Manufacturer And Sourcing Partner in Kenya
                     </h1>
                     <p className='text-gray-200 text-sm text-center w-[60%]'>
                         PUREGROWTH AGRIBUSINESS LIMITED is an established Sourcing and Trading company based in East Africa.
