@@ -44,9 +44,7 @@ const Footer = () => {
                 <div className='flex flex-col gap-4'>
                     <h1 className='font-bold text-sm text-white'>OUR QUALITY</h1>
                     <ul className='flex flex-col gap-2'>
-                        <li className='text-white text-sm'>
-                            <a href="" className='hover:text-green-400 duration-300 transition-all'>Certifications</a>
-                        </li>
+                        
                         <li className='text-white text-sm'>
                             <a href="/quality/services" className='hover:text-green-400 duration-300 transition-all'>Services</a>
                         </li>
