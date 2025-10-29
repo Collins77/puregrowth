@@ -2183,11 +2183,11 @@
             {
                 "name": "Wet Blue Hides",
                 "slug": "wet-blue",
-                "image": "/images/wetblue1.jpeg",
+                "image": "/images/weblue1.jpeg",
                 "images": {
-                    "main": "/images/wetblue1.jpeg",
+                    "main": "/images/weblue1.jpeg",
                     "gallery": [
-                        "/images/wetblue1.jpeg",
+                        "/images/weblue1.jpeg",
                         "/images/wetblue2.jpg"
                     ]
                 },
@@ -2241,6 +2241,74 @@
                     "Leather tannery",
                     "Chrome tanned",
                     "Export quality"
+                ]
+            }
+        ]
+    },
+    {
+        "category": "Sisal Fiber",
+        "slug": "sisal-fiber",
+        "subProducts": [
+            {
+                "name": "Sisal Fiber",
+                "slug": "sisal-fiber",
+                "image": "/images/sisal fiber.png",
+                "images": {
+                    "main": "/images/sisal fiber.png",
+                    "gallery": [
+                        "/images/sisal fiber.png",
+                        "/images/sisal fiber 2.png"
+                    ]
+                },
+                "description": "Premium grade sisal fiber derived from the leaves of the Agave sisalana plant. This natural fiber is renowned for its exceptional tensile strength, durability, and versatility. The fiber is extracted through mechanical decortication, then washed, brushed, and sun-dried to achieve a uniform, lustrous finish. It is extensively used in the manufacture of ropes, twines, mats, carpets, brushes, and a variety of industrial and decorative products. Our sisal fiber is sustainably sourced from East African plantations and carefully graded to ensure consistent quality for export markets.",
+                "origin": [
+                    "Kenya",
+                    "Tanzania"
+                ],
+                "metrics": {
+                    "fiberLength": "60–120 cm",
+                    "tensileStrength": "400–600 MPa",
+                    "moistureContent": "8–12%",
+                    "impurities": "< 2%",
+                    "shelfLife": "Indefinite (when stored dry)"
+                },
+                "desc": {
+                    "Description": "Long-staple, decorticated, washed and sun-dried natural sisal fiber.",
+                    "Country of last processing": "Kenya",
+                    "Agricultural origin": "Kenya / Tanzania",
+                    "Botanical name": "Agave sisalana"
+                },
+                "applications": [
+                    "Rope and twine production",
+                    "Carpet backing and mats",
+                    "Brush and broom manufacture",
+                    "Textile and composite reinforcement",
+                    "Paper pulp and specialty crafts"
+                ],
+                "supply": {
+                    "capacity": "250 MT/month",
+                    "packaging": [
+                        "Compressed bales (100–200 kg each)",
+                        "Bulk shipment in containers"
+                    ]
+                },
+                "specifics": {
+                    "color": "Creamy white to pale straw",
+                    "texture": "Coarse, long-staple fiber",
+                    "odor": "Neutral natural scent",
+                    "processing": "Decorticated, washed, brushed, and sun-dried"
+                },
+                "features": [
+                    "High tensile strength and durability",
+                    "Low impurity and uniform fiber grading",
+                    "100% natural, biodegradable, and renewable",
+                    "Ideal for industrial, agricultural, and decorative applications"
+                ],
+                "tags": [
+                    "Sisal",
+                    "Natural fiber",
+                    "Decorticated",
+                    "Eco-friendly"
                 ]
             }
         ]

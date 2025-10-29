@@ -35,7 +35,7 @@ const Contact = () => {
           <h1 className='font-bold text-[#039be6] sm:text-xl mb-4'>Puregrowth Agribusiness Limited office & warehouse</h1>
           <p className='sm:text-lg text-gray-500'>Ngong Road</p>
           <p className='sm:text-lg text-gray-500 mb-2'>Nairobi, Kenya</p>
-          <p className='sm:text-lg text-gray-500'>+254754153083</p>
+          <p className='sm:text-lg text-gray-500'>+254736716020</p>
           <p className='sm:text-lg text-gray-500'>sales@puregrowthagri.com</p>
         </div>
 
